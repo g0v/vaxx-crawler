@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "fetch": "curl 'https://antiflu.cdc.gov.tw/Covid19/GetHospitalData' -H 'x-requested-with: XMLHttpRequest' --data-raw 'bottom=22&left=100&right=130&top=27' -o locations.json",
     "start": "node index.js"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "airtable": "^0.11.1",
     "cheerio": "^1.0.0-rc.10",
     "csv-parser": "^3.0.0",
     "csv-stringify": "^5.6.2",
