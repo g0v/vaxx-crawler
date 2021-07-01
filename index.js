@@ -47,9 +47,9 @@ function data_parser(data) {
 
         stringify(export_data, { header: true, columns: columns }, (err, output) => {
             if (err) throw err;
-            fs.writeFile('my.csv', output, (err) => {
+            fs.writeFile('out.csv', output, (err) => {
                 if (err) throw err;
-                console.log('my.csv saved.');
+                console.log('out.csv saved.');
             });
         });
 
