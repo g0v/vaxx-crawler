@@ -4,6 +4,7 @@ const stringify = require('csv-stringify');
 const exec = require('child_process').exec;
 const config = require('./config.json');
 const Airtable = require('airtable');
+const sha256 = require('js-sha256').sha256;
 
 function parse_short_url(_url) {
     return new Promise((resolve, reject) => {
@@ -84,7 +85,8 @@ function data_parser(data) {
 
         let cb_data = {};
         export_data.forEach(function (data) {
-            cb_data[data['醫事機構代碼（自動）']] = data;
+            let _key = sha256(data['施打站縣市（自動）']+data['施打站全稱（自動）']);
+            cb_data[_key] = data;
         });
         resolve(cb_data);
     });
@@ -99,12 +101,14 @@ let base = new Airtable({ apiKey: config['API_KEY'] }).base('appwPM9XFr1SSNjy4')
 function fetch_online() {
     let online_data = {};
     return new Promise((resolve, reject) => {
-        base('施打點清單（來源：CDC）').select({
+        base('施打點清單').select({
+            maxRecords: 9999,
             view: "raw data"
         }).eachPage(function page(records, fetchNextPage) {
             records.forEach(function (record) {
                 console.log('Retrieved', record.get('醫事機構代碼（自動）'));
-                online_data[record.get('醫事機構代碼（自動）')] = record;
+                let _key = sha256(record.get('施打站縣市（自動）')+record.get('施打站全稱（自動）'));
+                online_data[_key] = record;
             });
             fetchNextPage();
         }, function done(err) {
@@ -118,9 +122,6 @@ function fetch_online() {
     let new_data = await data_parser(locations_data);
     let online_data = await fetch_online();
     Object.keys(new_data).forEach(function (id) {
-        if (id.length < 10) {
-            id = "0" + id;
-        }
         if (id in online_data) {
             //console.log("update",id);
             update_data.push({
@@ -135,11 +136,15 @@ function fetch_online() {
             })
         }
     });
+
+    console.log("update data: ", update_data.length);
+    console.log("create data: ", create_data.length);
+    
     let chunk = 10;
     for (let i = 0; i < create_data.length; i += chunk) { // slice length into 10 for free airtable usage
         let tempArray;
         tempArray = create_data.slice(i, i + chunk);
-        base('施打點清單（來源：CDC）').create(tempArray, function (err, records) {
+        base('施打點清單').create(tempArray, function (err, records) {
             if (err) {
                 console.error(err);
                 return;
@@ -153,7 +158,7 @@ function fetch_online() {
     for (let i = 0; i < update_data.length; i += chunk) { // slice length into 10 for free airtable usage
         let tempArray;
         tempArray = update_data.slice(i, i + chunk);
-        base('施打點清單（來源：CDC）').update(tempArray, function (err, records) {
+        base('施打點清單').update(tempArray, function (err, records) {
             if (err) {
                 console.error(err);
                 return;
@@ -163,5 +168,5 @@ function fetch_online() {
             });
         });
     }
-
+    
 })();

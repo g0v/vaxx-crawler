@@ -1,0 +1,548 @@
+﻿醫事機構代碼（自動）,施打站全稱（自動）,施打站縣市（自動）,施打站行政區（自動）,施打站地址（自動）,施打站經度（自動）,施打站緯度（自動）,官方提供網址（自動）,預約方式（手動）,實際預約網址（手動）,是否可以爬蟲（手動）,預約電話（自動）,是否接受電話預約（手動）,爬蟲程式碼（手動）,爬蟲結果（手動）,爬蟲結果資料抓取時間（自動）,爬蟲人（手動）,開放預約時間（手動）,Last Modified,Last Modified By,爬蟲分類（手動）,備註（手動）
+0111070010,衛生福利部基隆醫院,基隆市,信義區,基隆市信義區信二路268號,121.7483,25.13046,https://netreg.kln.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NetReg.aspx,掛號系統,https://netreg.kln.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NetReg.aspx,是,02-24292525,,https://github.com/ronnywang/vaxx-crawler/blob/master/crawl-kln.mohw.php,https://vaxx.g0v.ronny.tw/crawl-kln.mohw.php,,Ronny Wang,,2021年7月5日 11:17上午,Dora lyn,衛福部系列,
+0511040010,三軍總醫院附設基隆民眾診療服務處,基隆市,仁愛區,基隆市中正區正榮街100號，仁愛區孝二路39號2樓,121.7629,25.14467,https://wwwv.tsgh.ndmctsgh.edu.tw/unit/50000/16472,掛號系統,https://gwebreg.ndmctsgh.edu.tw/webreg/calendar_type/LxNjSGXYsa-ewnlgCkv0PA%3D%3D,,02-24633330,,,,,,,2021年7月5日 11:19上午,Dora lyn,國軍醫院系列,
+1111060015,長庚醫療財團法人基隆長庚紀念醫院,基隆市,安樂區,基隆市安樂區麥金路222號、基隆市麥金路201號,121.7224,25.12088,https://register.cgmh.org.tw/Department/2/20990B,不詳,,,02-24313131,,,,,,,2021年7月5日 11:22上午,Dora lyn,,預約連結失效 by SL
+0101090517b,臺北市立聯合醫院-陽明院區,臺北市,士林區,台北市士林區雨聲街105號,121.5316,25.10519,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=M&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,不詳,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,是,02-28389167,,,,,,,2021年7月4日 3:50下午,Dora lyn,北市衛生局系列,似乎是不打算用自己的預約系統，改用北市衛生局的預約系統了？by SL
+0101090517f,臺北市立聯合醫院-中興院區,臺北市,大同區,台北市大同區鄭州路145號2F,121.5089,25.05069,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=G&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,不詳,https://booking.health.gov.tw/Home/notyet,是,02-25523234,,,,,,,2021年7月4日 3:50下午,Dora lyn,北市衛生局系列,
+0101090517g,臺北市立聯合醫院-忠孝院區,臺北市,南港區,臺北市南港區同德路87號,121.5862,25.04651,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=Q&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,不詳,https://booking.health.gov.tw/Home/notyet,是,02-27861288,,,,,,,2021年7月4日 3:50下午,Dora lyn,北市衛生局系列,
+0101090517h,臺北市立聯合醫院-仁愛院區,臺北市,大安區,台北市大安區仁愛路四段10號,121.5453,25.03754,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=F&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,不詳,https://booking.health.gov.tw/Home/notyet,是,02-27093600,,,,,,,2021年7月4日 3:50下午,Dora lyn,北市衛生局系列,
+0101090517i,臺北市立聯合醫院和平院區,臺北市,中正區,臺北市中華路2段33號,121.5067,25.03559,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=H&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,不詳,https://booking.health.gov.tw/Home/notyet,是,02-23889595,,,,,,,2021年7月4日 3:50下午,Dora lyn,北市衛生局系列,
+0401180014,國立台灣大學醫學院附設醫院,臺北市,中正區,臺北市中正區中山南路7、8號；常德街1號,121.5186,25.04078,https://reg.ntuh.gov.tw/WebAdministration/VaccineClinicReg.aspx?Hosp=T0&Reg=,掛號系統,https://reg.ntuh.gov.tw/WebAdministration/VaccineClinicReg.aspx?Hosp=T0&Reg=,是,02-23123456,,,,,,,2021年7月5日 11:17上午,Dora lyn,台大醫院系列,
+0501110514,三軍總醫院附設民眾診療服務處,臺北市,內湖區,臺北市內湖區成功路2段325號,121.5920,25.07180,https://www2.ndmctsgh.edu.tw/newwebreg/Register/Doctors?pos=B&DeptCode=11A&DeptGroup=4,掛號系統,https://www2.ndmctsgh.edu.tw/newwebreg/Register/FirstRegIDCheck?pos=B,是,02-87923311,,,,,,,2021年7月5日 11:17上午,Dora lyn,醫院各自系統,
+0601160016,臺北榮民總醫院,臺北市,北投區,臺北市北投區石牌路2段201號,121.5192,25.11918,https://www6.vghtpe.gov.tw/reg/c19vaccAnn.do,掛號系統,https://www6.vghtpe.gov.tw/reg/c19vaccAnn.do,是,02-28712121,,,,,,,2021年7月5日 11:17上午,Dora lyn,醫院各自系統,
+1101010012,長庚醫療財團法人臺北長庚紀念醫院,臺北市,松山區,臺北市松山區敦化北路199號,121.5496,25.05551,https://register.cgmh.org.tw/Department/1/10990D,掛號系統,https://register.cgmh.org.tw/Register/1,是,02-27135211,,,,,,,2021年7月5日 11:17上午,Dora lyn,長庚醫院系列,
+1101010021,基督復臨安息日會醫療財團法人臺安醫院,臺北市,松山區,臺北市松山區八德路2段424、426號,121.5478,25.04771,https://www.tahsda.org.tw/Register/add_sub.php?sub=00E,掛號系統,https://www.tahsda.org.tw/m/COVID-19Vaccines.php,,02-27718151,,,,,,,2021年7月5日 11:17上午,Dora lyn,醫院各自系統,
+1101020018,國泰醫療財團法人國泰綜合醫院,臺北市,大安區,臺北市大安區仁愛路4段280號，266巷6號,121.5442,25.03767,https://reg.cgh.org.tw/tw/reg/main.jsp?source=V,掛號系統,https://reg.cgh.org.tw/tw/reg/main.jsp?source=V,,02-27082121,,,,,,,2021年7月5日 11:17上午,Dora lyn,國泰醫院系列,
+1101100011,臺灣基督長老教會馬偕醫療財團法人馬偕紀念醫院,臺北市,中山區,臺北市中山區中山北路2段92號,121.5226,25.05888,https://www.mmh.org.tw/register_divide.php?depid=234,掛號系統,https://www.mmh.org.tw/register_divide.php?depid=234,,02-25433535,,,,,,,2021年7月5日 11:17上午,Dora lyn,馬偕醫院系列,
+1101150011,新光醫療財團法人新光吳火獅紀念醫院,臺北市,士林區,臺北市士林區文昌路95號及士商路51號1至7樓53、55號,121.5203,25.09624,https://www.skh.org.tw/skh_regis/#/register/step,掛號系統,https://www.skh.org.tw/skh_regis/#/register/step,,02-28332211,,,,,,,2021年7月5日 11:17上午,Dora lyn,醫院各自系統,
+1101160017,振興醫療財團法人振興醫院,臺北市,北投區,臺北市北投區振興街45號,121.5224,25.11754,https://www2.chgh.org.tw/CovidMain.aspx,不詳,,,02-28264400,,,,,,,2021年7月4日 3:50下午,Dora lyn,醫院各自系統,"打完連戰爺爺
+被禁止施打"
+1101160026,醫療財團法人辜公亮基金會和信治癌中心醫院,臺北市,北投區,臺北市北投區立德路125號,121.4720,25.12834,https://www.kfsyscc.org/m/archives/11688,不詳,,,02-28970011,,,,,,,2021年7月4日 3:50下午,Dora lyn,醫院各自系統,"頁面移除失效
+"
+1301170017,臺北醫學大學附設醫院,臺北市,信義區,臺北市信義區吳興街252號、250號,121.5636,25.02664,https://www.tmuh.org.tw/special/covid19#,掛號系統,https://www.tmuh.org.tw/service/regist/015,,02-27372181,,,,,,,2021年7月5日 11:17上午,Dora lyn,北醫系列,
+1301200010,臺北市立萬芳醫院-委託財團法人台北醫學大學辦理,臺北市,文山區,臺北市文山區興隆路3段111號,121.5583,25.00031,https://www.wanfang.gov.tw/p3_register_e3.aspx?deptcode=B054&depttype=A&deptdesc=%E5%85%AC%E8%B2%BBCOVID-19%E7%96%AB%E8%8B%97%E9%96%80%E8%A8%BA&depttype2=A,掛號系統,https://www.wanfang.gov.tw/p3_register_e3.aspx?deptcode=B054&depttype=A&deptdesc=%E5%85%AC%E8%B2%BBCOVID-19%E7%96%AB%E8%8B%97%E9%96%80%E8%A8%BA&depttype2=A,,02-29307930,,,,,,,2021年7月5日 11:17上午,Dora lyn,醫院各自系統,
+2101010013,臺北市立聯合醫院松山門診部,臺北市,松山區,臺北市松山區八德路4段694號1、2樓,121.5773,25.04967,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=A&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,掛號系統,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,,02-27653147,,,,,,,2021年7月5日 11:17上午,Dora lyn,北市聯醫系統,
+2101020019,臺北市立聯合醫院大安門診部,臺北市,大安區,臺北市大安區辛亥路3段15號,121.5443,25.02157,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=4&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,掛號系統,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,,02-27390997,,,,,,,2021年7月5日 11:17上午,Dora lyn,北市聯醫系統,
+2101090011,臺北市立聯合醫院大同門診部,臺北市,大同區,臺北市大同區昌吉街52號1至2樓,121.5163,25.06582,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=V&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,掛號系統,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,,02-25948971,,,,,,,2021年7月5日 11:17上午,Dora lyn,北市聯醫系統,
+2101100227,臺北市立聯合醫院中山門診部,臺北市,中山區,臺北市中山區松江路367號1樓,121.5335,25.06440,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=P&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,掛號系統,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,,02-25013363,,,,,,,2021年7月5日 11:17上午,Dora lyn,北市聯醫系統,
+2101110027,臺北市立聯合醫院內湖門診部,臺北市,內湖區,臺北市內湖區民權東路6段99號,121.5889,25.06923,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=N&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,掛號系統,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,,02-27908387,,,,,,,2021年7月5日 11:17上午,Dora lyn,北市聯醫系統,
+2101120014,臺北市立聯合醫院南港門診部,臺北市,南港區,臺北市南港區南港路1段360號1樓,121.6068,25.05453,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=R&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,掛號系統,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,,02-27868756,,,,,,,2021年7月5日 11:17上午,Dora lyn,北市聯醫系統,
+2101150012,臺北市立聯合醫院士林門診部,臺北市,士林區,臺北市士林區中正路439號1樓,121.5197,25.09285,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=L&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,掛號系統,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,,02-28836268,,,,,,,2021年7月5日 11:17上午,Dora lyn,北市聯醫系統,
+2101161033,臺北市立聯合醫院北投門診部,臺北市,北投區,臺北市北投區新市街30號5樓,121.5027,25.13267,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=T&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,掛號系統,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,,02-28912670,,,,,,,2021年7月5日 11:17上午,Dora lyn,北市聯醫系統,
+2101170050,臺北市立聯合醫院信義門診部,臺北市,信義區,臺北市信義區信義路5段15號,121.5669,25.03315,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=E&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,掛號系統,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,,02-87804152,,,,,,,2021年7月5日 11:17上午,Dora lyn,北市聯醫系統,
+2101180038,臺北市立聯合醫院中正門診部,臺北市,中正區,臺北市中正區牯嶺街24號,121.5160,25.03049,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=5&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,掛號系統,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,,02-23210168,,,,,,,2021年7月5日 11:17上午,Dora lyn,北市聯醫系統,
+2101191068,臺北市立聯合醫院萬華門診部,臺北市,萬華區,臺北市萬華區東園街152號,121.4976,25.02318,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=U&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,掛號系統,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,,02-23395384,,,,,,,2021年7月5日 11:17上午,Dora lyn,北市聯醫系統,
+2101200017,臺北市立聯合醫院政大門診部,臺北市,文山區,臺北市文山區指南路2段117號,121.5765,24.98762,https://webreg.tpech.gov.tw/RegOnline1_2.aspx?ZCode=D&DeptCode=0100&deptname=COVID-19%e7%96%ab%e8%8b%97%e7%89%b9%e5%88%a5%e9%96%80%e8%a8%ba,掛號系統,https://tpech.gov.taipei/cp.aspx?n=BE9341119042AFED,,02-82377441,,,,,,,2021年7月5日 11:17上午,Dora lyn,北市聯醫系統,
+0131020016,新北市立聯合醫院,新北市,三重區,新北市三重區新北大道1段3號、3之1號、板橋區英士路198號,121.4908,25.06087,https://reurl.cc/bzg9kE,掛號系統,https://reg.ntch.ntpc.gov.tw:4443/VaccineWeb,是,02-29829111,,,,,,,2021年7月4日 3:50下午,Dora lyn,醫院各自系統,
+0131060010,衛生福利部樂生療養院,新北市,新莊區,新北市新莊區中正路794號及桃園縣龜山鄉萬壽路1段50巷2號,121.4180,25.02934,https://reurl.cc/OXoZer,掛號系統,https://netreg.lslp.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NetReg.aspx?lang=C,是,02-82006600,,,,,,2021/07/02; 2021/07/03; 2021/07/04,2021年7月4日 3:50下午,Dora lyn,衛福部系列,
+0431270012,國立臺灣大學醫學院附設醫院金山分院,新北市,金山區,新北市金山區五湖里玉爐路7號,121.6283,25.21947,,掛號系統,https://reg.ntuh.gov.tw/WebAdministration/VaccineClinicReg.aspx?Hosp=T3&Reg=,是,02-24989898,,,,,,,2021年7月4日 3:50下午,Dora lyn,台大醫院系列,
+1131010011,醫療財團法人徐元智先生醫藥基金會亞東紀念醫院,新北市,板橋區,新北市板橋區南雅南路2段21號及高爾富路300號,121.4523,24.99731,https://hos.femh.org.tw/newfemh/webreg_net/vacccontent.aspx,掛號系統,https://hos.femh.org.tw/newfemh/webreg_net/vacccontent.aspx,是,02-89667000,,,,,,,2021年7月4日 3:50下午,Dora lyn,醫院各自系統,
+1131050515,佛教慈濟醫療財團法人台北慈濟醫院,新北市,新店區,新北市新店區建國路289號,121.5358,24.98578,https://reurl.cc/qm39Dp,掛號系統,https://reg-prod.tzuchi-healthcare.org.tw/tchw/HIS5OpdReg/OpdTimeShow?Pass=XD;0021,是,02-66289779,,,,,,,2021年7月5日 11:27上午,Dora lyn,慈濟系列,雖然styling看起來不一樣，但應該也是慈濟系列的？？？ by SL
+1131090019,行天宮醫療志業醫療財團法人恩主公醫院,新北市,三峽區,新北市三峽區復興路399號、中山路198、258號,121.3630,24.93839,https://reurl.cc/yn4orD,掛號系統,https://www.eck.org.tw/guide/outpatient/registered/%E6%88%91%E8%A6%81%E6%8E%9B%E8%99%9F/?getDiv=GetDivDoctorListInfoWeb&DivNo=1010,是,02-26723456,,,,,,,2021年7月4日 3:50下午,Dora lyn,醫院各自系統,
+1131100010,台灣基督長老教會馬偕醫療財團法人淡水馬偕紀念醫院,新北市,淡水區,新北市淡水區民生路45號、民權路47號B1至10樓,121.4605,25.13953,https://reurl.cc/jq2D5n,掛號系統,https://www.mmh.org.tw/webpage.php?id=209,是,02-28094661,,,,,,,2021年7月5日 11:36中午,Dora lyn,馬偕醫院系列,
+1131110516,國泰醫療財團法人汐止國泰綜合醫院,新北市,汐止區,新北市汐止區建成路59巷2號地下4樓至地上12樓,121.6611,25.07287,,掛號系統,https://reg.cgh.org.tw/tw/reg/main_01.jsp,,02-26482121,,,,,,,2021年7月4日 3:50下午,Dora lyn,國泰醫院系列,
+1131130018,新北市立土城醫院（委託長庚醫療財團法人興建經營）,新北市,土城區,新北市土城區金城路2段6號,121.4487,24.97644,https://is.gd/OJZpi6,掛號系統,https://register.cgmh.org.tw/Register/V,,02-22630588,,,,,,,2021年7月4日 3:50下午,Dora lyn,長庚醫院系列,
+1231030015,天主教耕莘醫療財團法人永和耕莘醫院,新北市,永和區,新北市永和區中興街80號Ｂ1-7樓、國光路123號Ｂ3-11樓,121.5179,25.01187,,不詳,http://hnetreg.cthyh.org.tw:8080/LeftVaccine/index_covid19,,02-29286060,,,,,,,2021年7月4日 3:50下午,Dora lyn,,預約頁面看來是死掉了 by SL
+1231050017,天主教耕莘醫療財團法人耕莘醫院,新北市,新店區,新北市新店區中正路362號、車子路15號,121.5356,24.97608,,掛號系統,"有兩個 https://webreg.cth.org.tw/CthWebReg/WebReg/booking_main1.aspx?order=register, https://webreg.cth.org.tw/CthWebReg/WebReg/booking_main1.aspx?order=register",,02-22193391,,,,,,,2021年7月4日 3:50下午,Dora lyn,醫院各自系統,
+1331040513,衛生福利部雙和醫院(委託臺北醫學大學興建經營),新北市,中和區,新北市中和區中正路291號,121.4941,24.99375,https://reurl.cc/V3qGpn,掛號系統,https://www.shh.org.tw/page/ShhregVaccine.aspx,,02-22490088,,,,,,,2021年7月4日 3:50下午,Dora lyn,北醫系列,
+1331160010,輔仁大學學校財團法人輔仁大學附設醫院,新北市,泰山區,新北市泰山區貴子路69號（地下4層、地上1至9層及13層）,121.4308,25.03968,,掛號系統,http://www.hospital.fju.edu.tw/OPDSchedule?SelectID=COVF,,02-85128888,,,,,,,2021年7月4日 3:50下午,Dora lyn,醫院各自系統,
+1531060180,新泰綜合醫院,新北市,新莊區,新北市新莊區新樹路176號,121.4343,25.02156,,掛號系統,http://www.sthosp.com.tw/index.php/news_detailed/index/440,,02-29962121,,,,,,,2021年7月4日 3:50下午,Dora lyn,醫院各自系統,會在「最新消息」裡公布 by SL
+1531071030,仁愛醫院,新北市,樹林區,新北市樹林區文化街9號,121.4200,24.98719,https://reurl.cc/Q7orD9,掛號系統,http://www.rah.com.tw/index/CVD19-1.html,,02-26834567,,,,,,,2021年7月4日 3:50下午,Dora lyn,醫院各自系統,
+1531120038,瑞芳礦工醫院,新北市,瑞芳區,新北市瑞芳區一坑路71之2號,121.8022,25.10860,,電話預約,,,02-24974101,,,,,,,2021年7月4日 3:50下午,Dora lyn,,要電話預約「有關公費疫苗施打請於上午9點至晚上8點撥打專線02-24974101轉102預約登記。」 by SL
+2331010016,新北市板橋區衛生所,新北市,板橋區,新北市板橋區英士路192號,121.4583,25.02332,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-22586606,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331020012,新北市三重區衛生所,新北市,三重區,新北市三重區新北大道1段1號,121.4914,25.06119,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-29848320,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331030018,新北市永和區衛生所,新北市,永和區,新北市永和區秀朗路1段137號1、2、3樓,121.5162,25.00497,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-32332780,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331040014,新北市中和區衛生所,新北市,中和區,新北市中和區南山路4巷3號,121.5016,24.99869,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-22491936,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331050010,新北市新店區衛生所,新北市,新店區,新北市新店區北新路1段88巷11號,121.5430,24.96728,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-29113984,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331060016,新北市新莊區衛生所,新北市,新莊區,新北市新莊區中華路1段2號1至4樓,121.4522,25.03641,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-29967123,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331070012,新北市樹林區衛生所,新北市,樹林區,新北市樹林區樹新路40－7號1、2樓,121.4285,24.99614,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26812134,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331080018,新北市鶯歌區衛生所,新北市,鶯歌區,新北市鶯歌區文化路389號,121.3525,24.95057,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26702304,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331090014,新北市三峽區衛生所,新北市,三峽區,新北市三峽區光明路71號3樓,121.3761,24.92830,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26711592,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331100015,新北市淡水區衛生所,新北市,淡水區,新北市淡水區中山路158號,121.4408,25.17278,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26215620,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331110011,新北市汐止區衛生所,新北市,汐止區,新北市汐止區新台五路1段266號地下1樓．地上1至4樓,121.6585,25.06351,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26412030,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331120017,新北市瑞芳區衛生所,新北市,瑞芳區,新北市瑞芳區明燈路3段1號,121.8090,25.10737,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-24972132,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331130013,新北市土城區衛生所,新北市,土城區,新北市土城區和平路26號1、2樓,121.4432,24.97286,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-22603181,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331140019,新北市蘆洲區衛生所,新北市,蘆洲區,新北市蘆洲區中央路58號,121.4733,25.08396,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-22812011,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331150015,新北市五股區衛生所,新北市,五股區,新北市五股區新城三路11號1樓、2樓及3樓,121.4476,25.09424,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-22917717,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331160011,新北市泰山區衛生所,新北市,泰山區,新北市泰山區全興路212號3樓,121.4337,25.05613,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-22962858,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331170017,新北市林口區衛生所,新北市,林口區,新北市林口區忠孝二路55號,121.3641,25.06984,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26068760,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331180013,新北市深坑區衛生所,新北市,深坑區,新北市深坑區深坑街165號1－3樓,121.6126,25.00094,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26621567,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331190019,新北市石碇區衛生所,新北市,石碇區,新北市石碇區潭邊里碇坪路1段82號,121.6576,24.99135,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26631325,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331200010,新北市坪林區衛生所,新北市,坪林區,新北市坪林區坪林街104號,121.7116,24.93588,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26656272,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331210016,新北市三芝區衛生所,新北市,三芝區,新北市三芝區中山路1段12號,121.5008,25.25841,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26362007,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331220012,新北市石門區衛生所,新北市,石門區,新北市石門區中山路28－1號,121.5660,25.29016,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26381007,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331230018,新北市八里區衛生所,新北市,八里區,新北市八里區舊城路16號,121.4001,25.14710,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26102137,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331240014,新北市平溪區衛生所,新北市,平溪區,新北市平溪區公園街17號1樓,121.7372,25.02468,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-24951015,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331250010,新北市雙溪區衛生所,新北市,雙溪區,新北市雙溪區新基南路18號,121.8665,25.03792,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-24931211,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331260016,新北市貢寮區衛生所,新北市,貢寮區,新北市貢寮區朝陽街70巷10號、新北市貢寮區仁愛路128號,121.9095,25.02258,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-24901431,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331270012,新北市金山區衛生所,新北市,金山區,新北市金山區中山路257號4樓,121.6369,25.22209,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-24984807,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331280018,新北市萬里區衛生所,新北市,萬里區,新北市萬里區瑪鍊路157號1－3樓及地下1樓,121.6897,25.17833,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-24921117,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+2331290014,新北市烏來區衛生所,新北市,烏來區,新北市烏來區新烏路5段109號,121.5480,24.87197,,預約系統,https://vacbooking.ntpc.gov.tw/ntc_vaccination/index.php,是,02-26617200,,,,,,,2021年7月4日 3:50下午,Dora lyn,新北市衛生局系列,
+0131060029,衛生福利部臺北醫院,新北市,新莊區,新北市新莊區思源路127號、新北巿新莊區長春街6號2樓、3樓,121.4596,25.04324,https://reurl.cc/bzyZ5d,google表單,https://docs.google.com/forms/d/e/1FAIpQLSeZylDHZtzlyZNWdRMMZcOWo4LrOxrmjhgp9BK9-ax5q1sE2w/closedform,,02-22765566,,,,,,,2021年7月4日 3:50下午,Dora lyn,google表單系列,雖然網站是衛福部網站但預約是google表單 
+0132010014,衛生福利部桃園醫院,桃園市,桃園區,桃園市桃園區中山路1492號,121.2681,24.97771,https://reurl.cc/7yqroQ,,https://www.tygh.mohw.gov.tw/?aid=301&page_name=detail&iid=994,,03-3699721,,,,,,,2021年7月3日 5:26下午,Yoyowu,google表單系列,"雖然網站是衛福部網站但預約是google表單
+
+"
+0132110519,衛生福利部桃園醫院新屋分院,桃園市,新屋區,桃園市新屋區新屋村14鄰新福二路6號,121.1072,24.96986,https://bit.ly/3mJGgRf,,https://docs.google.com/forms/d/e/1FAIpQLSd79uux1TrY6XegF25kpPL5puiW02YCMoIfYrW_-fL_oam2sg/closedform,,03-4971989,,,,,,,2021年7月3日 5:26下午,Yoyowu,google表單系列,"雖然網站是衛福部網站但預約是google表單
+
+"
+0532090029,國軍桃園總醫院附設民眾診療服務處,桃園市,龍潭區,桃園市龍潭區中興里中興路168號,121.2350,24.87446,https://registration.aftygh.gov.tw/stepB1.asp?isQuery=1&RoomNo=0224,目前暫停預約,,,03-4799595,,,,,,,2021年7月4日 4:01下午,Dora lyn,國軍醫院系列,"7/9前不提供任何醫療服務
+"
+0632010014,臺北榮民總醫院桃園分院,桃園市,桃園區,桃園市桃園區成功路三段100號,121.3253,25.00374,https://docs.google.com/forms/d/e/1FAIpQLSdDNhDZEz1B_OKjig4X1iq-NPgR2wJuVpB7ROOc326DjC8G0Q/viewform,,http://www.tyvh.gov.tw/%E6%96%BD%E6%89%93covid-19%E7%96%AB%E8%8B%97%E9%A0%90%E7%B4%84%E7%94%B3%E8%AB%8B%E4%BD%9C%E6%A5%AD/,,03-3384889,,,,,,,2021年7月3日 5:24下午,Yoyowu,醫院各自系統,
+0932020025,天成醫療社團法人天晟醫院,桃園市,中壢區,桃園市中壢區延平路155號,121.2291,24.96260,https://reurl.cc/R6o069,,http://www.tcmg.com.tw/register/register_1.php,,03-4629292,,,,,,,2021年7月3日 5:27下午,Yoyowu,天成醫院系統,
+1132010024,沙爾德聖保祿修女會醫療財團法人聖保祿醫院,桃園市,桃園區,桃園市桃園區建新街123號,121.3125,24.98212,https://rms.sph.org.tw/RMSTimeTable.aspx?dpt=S1100F,,https://rms.sph.org.tw/RMSTimeTable.aspx?dpt=S1100F,,03-3613141,,,,,,,2021年7月3日 5:27下午,Yoyowu,醫院各自系統,
+1132070011,長庚醫療財團法人林口長庚紀念醫院,桃園市,龜山區,桃園市龜山區公西里復興街5號、5之7號、文化一路15號,121.3676,25.06039,https://register.cgmh.org.tw/Department/3/30990D,,https://register.cgmh.org.tw/Department/3/30990D,,03-3281200,,,,,,,2021年7月3日 5:28下午,Yoyowu,長庚醫院系列,
+1532011154,敏盛綜合醫院,桃園市,桃園區,桃園市桃園區經國路168號、三民路三段106號,121.3068,25.01486,https://reurl.cc/L0ob07,,http://netreg.e-ms.com.tw/NetReg/KReg/ScheduleList.aspx?Func=Reg&DispMode=Doc&DoctorInfo=M6666|COVID%e7%96%ab%e8%8b%97,,03-3179599,,,,,,,2021年7月3日 5:29下午,Yoyowu,醫院各自系統,
+1532040039,天成醫院,桃園市,楊梅區,桃園市楊梅區新成路196號、中山北路一段356號,121.1473,24.90763,https://bit.ly/2RwTIMQ,,https://bit.ly/2RwTIMQ,,03-4782350,,,,,,,2021年7月3日 5:29下午,Yoyowu,天成醫院系統,
+1532040066,怡仁綜合醫院,桃園市,楊梅區,桃園市楊梅區楊新北路321巷30號,121.1554,24.91695,http://www.yeezen.com.tw/default.aspx#,,http://www.yeezen.com.tw/default.aspx#,,03-4855566,,,,,,,2021年7月3日 5:30下午,Yoyowu,醫院各自系統,
+1532100049,聯新國際醫院,桃園市,平鎮區,桃園市平鎮區廣泰路77號、延平路二段430巷115號,121.2054,24.94202,https://ssl.landseed.com.tw/lishin/reg/reg.php,,http://www.landseedhospital.com.tw/lishin/policlinic/policlinic0302.php?divCode=319B&divName=COVID-19%E7%96%AB%E8%8B%97%E6%96%BD%E6%89%93%E7%89%B9%E8%A8%BA,,03-4941234,,,,,,,2021年7月3日 5:33下午,Yoyowu,醫院各自系統,
+2332010010,桃園市桃園區衛生所,桃園市,桃園區,桃園市桃園區國豐三街123號4樓,121.2787,24.99021,https://forms.gle/thP5K2hordjWtbEKA,,https://forms.gle/thP5K2hordjWtbEKA,,03-3791888,,,,,,,2021年7月3日 5:34下午,Yoyowu,google表單系列,
+2332020016,桃園市中壢區衛生所,桃園市,中壢區,桃園市中壢區溪洲街296號1、2樓,121.2300,24.96229,https://forms.gle/EG49Gp511xEFBWf36,,https://forms.gle/EG49Gp511xEFBWf36,,03-4352666,,,,,,,2021年7月3日 5:34下午,Yoyowu,google表單系列,
+2332030012,桃園市大溪區衛生所,桃園市,大溪區,桃園市大溪區仁愛路1號,121.2855,24.88449,https://forms.gle/fz3PQw5uGyximxnZ9,,https://forms.gle/fz3PQw5uGyximxnZ9,,03-3882401,,,,,,,2021年7月3日 5:35下午,Yoyowu,google表單系列,
+2332040018,桃園市楊梅區衛生所,桃園市,楊梅區,桃園市楊梅區校前路409號,121.1497,24.89699,https://forms.gle/vkiKus9qcLZcR1db6,,https://forms.gle/vkiKus9qcLZcR1db6,,03-4750151,,,,,,,2021年7月3日 5:35下午,Yoyowu,google表單系列,
+2332050014,桃園市蘆竹區衛生所,桃園市,蘆竹區,桃園市蘆竹區長安路二段238號,121.2805,25.06307,https://forms.gle/LHoJtZ3JaAb8iCzaA,,https://forms.gle/LHoJtZ3JaAb8iCzaA,,03-3524732,,,,,,,2021年7月3日 5:35下午,Yoyowu,google表單系列,
+2332060010,桃園市大園區衛生所,桃園市,大園區,桃園市大園區田心里中正西路19號,121.1955,25.06336,https://forms.gle/owyw8DQ1zXVfCw9ZA,,https://forms.gle/owyw8DQ1zXVfCw9ZA,,03-3862024,,,,,,,2021年7月3日 5:35下午,Yoyowu,google表單系列,
+2332070016,桃園市龜山區衛生所,桃園市,龜山區,桃園市龜山區自強南路103號,121.3385,24.99150,https://forms.gle/dHZ8RMJhppyVXD4T6,,https://forms.gle/dHZ8RMJhppyVXD4T6,,03-3299645,,,,,,,2021年7月3日 5:35下午,Yoyowu,google表單系列,
+2332080012,桃園市八德區衛生所,桃園市,八德區,桃園市八德區大華里介壽路二段361巷28號,121.2964,24.94752,https://forms.gle/5q1WJAhmmx67TQKL7,,https://forms.gle/5q1WJAhmmx67TQKL7,,03-3662781,,,,,,,2021年7月3日 5:35下午,Yoyowu,google表單系列,
+2332090018,桃園市龍潭區衛生所,桃園市,龍潭區,桃園市龍潭區中正路210號1至2樓,121.2165,24.86404,https://forms.gle/SvSaDcjsrpz2Y9sw5,,https://forms.gle/SvSaDcjsrpz2Y9sw5,,03-4792033,,,,,,,2021年7月3日 5:35下午,Yoyowu,google表單系列,
+2332100019,桃園市平鎮區衛生所,桃園市,平鎮區,桃園市平鎮區新富里1鄰振興路1號,121.2178,24.94593,https://forms.gle/wYeBbWwUfenRzu3p7,,https://forms.gle/wYeBbWwUfenRzu3p7,,03-4576624,,,,,,,2021年7月3日 5:35下午,Yoyowu,google表單系列,
+2332110015,桃園市新屋區衛生所,桃園市,新屋區,桃園市新屋區新屋里中山路239號,121.1068,24.97259,https://forms.gle/kXDZ9b2ZtKsWmiWR8,,https://forms.gle/kXDZ9b2ZtKsWmiWR8,,03-4772018,,,,,,,2021年7月3日 5:35下午,Yoyowu,google表單系列,
+2332120011,桃園市觀音區衛生所,桃園市,觀音區,桃園市觀音區觀新路58號,121.0838,25.02782,https://forms.gle/aa5n1W1vDSXCGQsw8,,https://forms.gle/aa5n1W1vDSXCGQsw8,,03-4732031,,,,,,,2021年7月3日 5:35下午,Yoyowu,google表單系列,
+2332130017,桃園市復興區衛生所,桃園市,復興區,桃園市復興區澤仁里中正路25號,121.3510,24.81507,https://forms.gle/bPYew3Uf6mwx2TRr6,,https://forms.gle/bPYew3Uf6mwx2TRr6,,03-3822325,,,,,,,2021年7月3日 5:34下午,Yoyowu,google表單系列,
+0412040012,國立臺灣大學醫學院附設醫院新竹臺大分院新竹醫院,新竹市,北區,新竹市北區金華里經國路一段442巷25號,120.9799,24.81671,https://www.hch.gov.tw/hch/hch_chinese.aspx,目前暫停預約,,,03-5326151,,,,,,,2021年7月4日 3:50下午,Dora lyn,台大醫院系列,"5/27起暫停施打
+"
+0512040014,國軍新竹地區醫院附設民眾診療服務處,新竹市,北區,新竹市北區武陵路3號,120.9614,24.81597,https://813.mnd.gov.tw/,不詳,,,03-5348181,,,,,,,2021年7月4日 3:50下午,Dora lyn,國軍醫院系列,"找不到預約
+網頁＠＠
+"
+1112010519,台灣基督長老教會馬偕醫療財團法人新竹馬偕紀念醫院,新竹市,東區,新竹市東區光復路二段690號,120.9908,24.80009,https://bit.ly/32ey9Ts,掛號系統,https://hcreg.mmh.org.tw/DrSch.aspx?dept=O26A&dr=O26A&drname=&Lang=C,,03-6119595,,,,,,,2021年7月4日 3:50下午,Dora lyn,馬偕醫院系列,
+1112010528,國泰醫療財團法人新竹國泰綜合醫院,新竹市,東區,新竹市東區福德里中華路二段678號及678號之1,120.9649,24.79874,https://reg.cgh.org.tw/tw/reg/main_01.jsp,掛號系統,https://reg.cgh.org.tw/tw/reg/main_01.jsp,,03-5278999,,,,,,,2021年7月4日 3:50下午,Dora lyn,國泰醫院系列,
+1512011185,南門綜合醫院,新竹市,東區,新竹市東區林森路20號,120.9697,24.80222,http://reg.nanmen.com.tw:8080/NanWeb/index.html,掛號系統,http://reg.nanmen.com.tw:8080/NanWeb/index.html,,03-5261122,,,,,,,2021年7月4日 3:50下午,Dora lyn,醫院各自系統,
+2312010014,新竹市東區衛生所,新竹市,東區,新竹市東區民族路40之2號,120.9737,24.80544,https://e-health.hcchb.gov.tw/ch/index.jsp,目前暫停預約,https://e-health.hcchb.gov.tw/ch/index.jsp,,03-5236158,,,,,,,2021年7月4日 3:50下午,Dora lyn,新竹市衛生所系列,暫時停止疫苗服務
+2312041028,新竹市北區衛生所,新竹市,北區,新竹市北區國華街六十九號一樓,120.9703,24.81637,https://dep-n-health.hccg.gov.tw/ch/index.jsp,目前暫停預約,https://dep-n-health.hccg.gov.tw/ch/index.jsp,,03-5353969,,,,,,,2021年7月4日 3:50下午,Dora lyn,新竹市衛生所系列,暫時停止疫苗服務
+2312050018,新竹市香山衛生所,新竹市,香山區,新竹市香山區牛埔里育德街188號2樓,120.9426,24.79442,https://s-health.hcchb.gov.tw/ch/index.jsp,目前暫停預約,https://s-health.hcchb.gov.tw/ch/index.jsp,,03-5388109,,,,,,,2021年7月4日 3:50下午,Dora lyn,新竹市衛生所系列,暫時停止疫苗服務
+0433050018,國立臺灣大學醫學院附設醫院新竹臺大分院生醫醫院(竹北院區),新竹縣,竹北市,新竹縣竹北市生醫路一段2號,121.0440,24.80540,https://reg.ntuh.gov.tw/WebAdministration/VaccineClinicReg.aspx?Hosp=T7&Reg=V,,https://reg.ntuh.gov.tw/WebAdministration/VaccineClinicReg.aspx?Hosp=T7&Reg=V,,03-6677600,,,,,,,2021年7月3日 5:47下午,Yoyowu,台大醫院系列,
+0633030010,臺北榮民總醫院新竹分院,新竹縣,竹東鎮,新竹縣竹東鎮中豐路1段81號,121.0996,24.72270,http://www.vhct.gov.tw/,,http://www.vhct.gov.tw/web/b04_covid19/blank.htm,,03-5962134,,,,,,,2021年7月3日 5:48下午,Yoyowu,醫院各自系統,"目前暫停預約
+"
+0933050018,東元醫療社團法人東元綜合醫院,新竹縣,竹北市,新竹縣竹北市縣政二路69號,121.0140,24.82376,https://w3.tyh.com.tw/MainWebRegister.aspx,,https://w3.tyh.com.tw/WebRegList_Dept.aspx?d=55,,03-5527000,,,,,,,2021年7月3日 5:48下午,Yoyowu,醫院各自系統,
+1133060019,天主教仁慈醫療財團法人仁慈醫院,新竹縣,湖口鄉,新竹縣湖口鄉孝勢村忠孝路29號,121.0455,24.90056,https://bit.ly/3a6FicQ,,https://www.mercy.org.tw/?aid=59&pid=0&page_name=detail&iid=955,,03-5993500,,,,,,,2021年7月3日 11:51晚上,Yoyowu,醫院各自系統,
+1333050017,中國醫藥大學新竹附設醫院,新竹縣,竹北市,新竹縣竹北市興隆路一段199號,121.0020,24.82404,https://bit.ly/3dh16Et,,http://www.cmu-hch.cmu.edu.tw/NewsInfo/NewsArticle?no=947,,03-5580558,,,,,,,2021年7月3日 5:38下午,Dora lyn,中國醫藥大學系列,
+2333010014,新竹縣關西鎮衛生所,新竹縣,關西鎮,新竹縣關西鎮中山路207號,121.1726,24.79168,https://guanxi.hcshb.gov.tw/Default.aspx,,,,03-5872454,,,,,,,2021年7月3日 11:09晚上,Yoyowu,,"有說明頁面，不提供網路預約
+"
+2333020010,新竹縣新埔鎮衛生所,新竹縣,新埔鎮,新竹縣新埔鎮新民里中正路758號,121.0717,24.82792,https://xinpu.hcshb.gov.tw/,,https://www.beclass.com/rid=25463c560dad5fa7d8ae,,03-5882017,,,,,,,2021年7月3日 11:07晚上,Yoyowu,be class報名系統表,
+2333030016,新竹縣竹東鎮衛生所,新竹縣,竹東鎮,新竹縣竹東鎮中正路221號,121.0929,24.73599,https://zhudong.hcshb.gov.tw/,,,,03-5943566,,,,,,,2021年7月3日 11:08晚上,Yoyowu,,"沒有任何網路資訊
+"
+2333050018,新竹縣竹北市衛生所,新竹縣,竹北市,新竹縣竹北市光明二街89號,121.0068,24.83217,https://zhubei.hcshb.gov.tw/News_Content.aspx?n=119&sms=9119&s=85705,,,,03-5533381,,,,,,,2021年7月3日 11:09晚上,Yoyowu,,"沒有任何網路資訊
+"
+2333060014,新竹縣湖口鄉衛生所,新竹縣,湖口鄉,新竹縣湖口鄉中勢村中興街36號,121.0488,24.90233,https://hukou.hcshb.gov.tw/,,https://www.beclass.com/rid=25463c560dac97ebf6c6,,03-5992654,,,,,,,2021年7月3日 11:09晚上,Yoyowu,be class報名系統表,
+2333070010,新竹縣橫山鄉衛生所,新竹縣,橫山鄉,新竹縣橫山鄉大肚村3鄰新興街141巷10號,121.1393,24.71756,https://hengshan.hcshb.gov.tw/,,,,03-5932004,,,,,,,2021年7月3日 11:10晚上,Yoyowu,,"沒有任何網路資訊
+"
+2333080016,新竹縣新豐鄉衛生所,新竹縣,新豐鄉,新竹縣新豐鄉重興村萃豐路21號,120.9881,24.89992,https://xinfeng.hcshb.gov.tw/,,https://xinfeng.hcshb.gov.tw/News_Content.aspx?n=254&sms=9225&s=86643,,03-5591150,,,,,,,2021年7月3日 11:12晚上,Yoyowu,醫院各自系統,"報名網址連結拿掉，無法判讀
+"
+2333090012,新竹縣芎林鄉衛生所,新竹縣,芎林鄉,新竹縣芎林鄉文山路532號,121.0778,24.77740,https://qionglin.hcshb.gov.tw/,,https://www.beclass.com/rid=25463c460d9b79c2fed5,,03-5924787,,,,,,,2021年7月3日 11:13晚上,Yoyowu,be class報名系統表,
+2333100013,新竹縣寶山鄉衛生所,新竹縣,寶山鄉,新竹縣寶山鄉雙溪村7鄰雙園路二段273號,120.9949,24.76691,https://baoshan.hcshb.gov.tw/,,,,03-5292106,,,,,,,2021年7月3日 11:13晚上,Yoyowu,,"僅提供電話報名
+"
+2333110019,新竹縣北埔鄉衛生所,新竹縣,北埔鄉,新竹縣北埔鄉北埔街90號,121.0555,24.70055,https://beipu.hcshb.gov.tw/,,https://www.beclass.com/m/rid=254640e60dedeb6e864e,,03-5801677,,,,,,,2021年7月3日 11:14晚上,Yoyowu,be class報名系統表,
+2333120015,新竹縣峨眉鄉衛生所,新竹縣,峨眉鄉,新竹縣峨眉鄉峨眉村峨眉街2鄰5號,121.0214,24.68842,https://emei.hcshb.gov.tw/,,,,03-5800314,,,,,,,2021年7月3日 11:15晚上,Yoyowu,,"僅提供電話與現場報名
+"
+2333130011,新竹縣尖石鄉衛生所,新竹縣,尖石鄉,新竹縣尖石鄉嘉樂村2鄰61號,121.2023,24.70562,https://jianshi.hcshb.gov.tw/,,,,03-5842356,,,,,,,2021年7月3日 11:15晚上,Yoyowu,,"沒有任何網路資訊
+"
+2333140017,新竹縣五峰鄉衛生所,新竹縣,五峰鄉,新竹縣五峰鄉大隘村六鄰99號,121.1194,24.63184,https://wufeng.hcshb.gov.tw/,,,,03-5851005,,,,,,,2021年7月3日 11:16晚上,Yoyowu,,"沒有任何網路資訊
+"
+0135010016,衛生福利部苗栗醫院,苗栗縣,苗栗市,苗栗縣苗栗市為公路747號,120.8404,24.57566,https://reg2.mil.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=CO02&Date=&Noon=,,https://www.mil.mohw.gov.tw/?aid=55&pid=107&page_name=detail&iid=131,,037-261920,,,,,,,2021年7月3日 11:20晚上,Yoyowu,衛福部系列,
+0935010012,梓榮醫療社團法人弘大醫院,苗栗縣,苗栗市,苗栗縣苗栗市新東街125號,120.8210,24.55152,,,http://www.hopedoctors.com.tw/news.php,,037-361188,,,,,,,2021年7月3日 11:23晚上,Yoyowu,醫院各自系統,"沒有任何網路資訊
+"
+0935010021,大千醫療社團法人南勢醫院,苗栗縣,苗栗市,苗栗縣苗栗市南勢里南勢52號,120.7883,24.51979,,,http://60.249.72.244/reg/WebRegISAPI.dll/MXa9yzmQguACaWgIODZcEG/$/?call_zone=DC&call_type=division&call_code=A90,,037-369936,,,,,,,2021年7月3日 11:29晚上,Yoyowu,大千醫院系列,
+0935020027,李綜合醫療社團法人苑裡李綜合醫院,苗栗縣,苑裡鎮,苗栗縣苑裡鎮和平路168號、苗栗縣苑裡鎮中華路137號,120.6527,24.44182,http://www.leehospital.com.tw/%E7%B6%B2%E8%B7%AF%E6%8E%9B%E8%99%9F/Covid19.asp,,http://www.leehospital.com.tw/%E7%B6%B2%E8%B7%AF%E6%8E%9B%E8%99%9F/Covid19.asp,,037-862387,,,,,,,2021年7月4日 12:01早上,Yoyowu,李綜合醫院系列,
+1135050020,為恭醫療財團法人為恭紀念醫院,苗栗縣,頭份市,351苗栗縣頭份市信義路128號,120.9083,24.68774,https://app2.weigong.org.tw/WebReg/ym/reg/DoctorList.jsp,,https://docs.google.com/forms/d/e/1FAIpQLSfndt1HRnrkHbc0YF462FvEUILMH_kC32RrObvF8DyN5pPI5w/closedform,,037-676811,,,,,,,2021年7月3日 11:26晚上,Yoyowu,google表單系列,
+1435010013,財團法人台灣省私立桃園仁愛之家附設苗栗新生醫院,苗栗縣,苗栗市,苗栗縣苗栗市維新里新東街117號,120.8207,24.55156,,,https://app2.weigong.org.tw/WebReg/ym/reg/DoctorList.jsp,,037-320988,,,,,,,2021年7月3日 11:27晚上,Yoyowu,醫院各自系統,
+1535010024,協和醫院,苗栗縣,苗栗市,苗栗縣苗栗市中正路1367號,120.8173,24.54127,,,https://www.sheiho.com/?p=1272,,037-352631,,,,,,,2021年7月3日 11:28晚上,Yoyowu,,"僅提供電話報名
+"
+1535010051,大千綜合醫院,苗栗縣,苗栗市,苗栗市大同路133號、信義路23號、恭敬路36號、信義街36號,120.8155,24.55174,http://60.249.72.244//reg/WebRegISAPI.dll/$/start,,http://60.249.72.244/reg/WebRegISAPI.dll/ciiK~eht4u~leF73YghRMW/$/,,037-357125,,,,,,,2021年7月3日 11:29晚上,Yoyowu,大千醫院系列,
+1535031041,通霄光田醫院,苗栗縣,通霄鎮,苗栗縣通霄鎮中山路88號,120.6784,24.48900,http://www.ts.ktgh.com.tw/,,,,037-759999,,,,,,,2021年7月1日 12:23中午,Sean Gau,,
+1535051178,重光醫院,苗栗縣,頭份市,苗栗縣頭份市中華路1037、1039、1041、1043號,120.9081,24.68648,,,http://www.chorng-guang.url.tw/homepage/83-7-1%E8%B5%B7%E9%A0%90%E7%B4%84covid19%E7%96%AB%E8%8B%97%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.html,,037-663030,,,,,,,2021年7月3日 11:30晚上,Yoyowu,,"僅提供電話報名
+"
+1535081078,大順醫院,苗栗縣,大湖鄉,苗栗縣大湖鄉中正路48之5號,120.8676,24.42240,https://reurl.cc/V3rvzY,,http://60.249.72.244/reg/WebRegISAPI.dll/FXRgyqFUEKkAbMcOCgrLga/$/?call_zone=DN,,037-997666,,,,,,,2021年7月3日 11:29晚上,Yoyowu,大千醫院系列,
+2335010012,苗栗縣苗栗市衛生所,苗栗縣,苗栗市,苗栗縣苗栗市建民街28號,120.8249,24.56596,,,https://docs.google.com/forms/d/e/1FAIpQLSfxWAq1Ga_1sPweLZEcM915CvbjuI3k-WwzHD4WGb0GSNxQTw/viewform,,037-277129,,,,,,,2021年7月3日 11:31晚上,Yoyowu,google表單系列,
+2335020018,苗栗縣苑裡鎮衛生所,苗栗縣,苑裡鎮,苗栗縣苑裡鎮客庄里公民街16號,120.6527,24.43950,,,,,037-869595,,,,,,,2021年7月3日 11:32晚上,Yoyowu,,"僅提供電話報名
+"
+2335030014,苗栗縣通霄鎮衛生所,苗栗縣,通霄鎮,苗栗縣通霄鎮通東里23鄰中正路16－2號1－3樓,120.6842,24.49089,,,,,037-752048,,,,,,,2021年7月3日 11:33晚上,Yoyowu,,"僅提供電話報名
+"
+2335040010,苗栗縣竹南鎮衛生所,苗栗縣,竹南鎮,苗栗縣竹南鎮大營路209號,120.8725,24.68772,,,,,037-470152,,,,,,,2021年7月3日 11:33晚上,Yoyowu,,"僅提供電話報名
+"
+2335050016,苗栗縣頭份市衛生所,苗栗縣,頭份市,苗栗縣頭份市顯會路72號,120.9157,24.69048,,,,,037-663049,,,,,,,2021年7月3日 11:35晚上,Yoyowu,,"表示將用唐鳳開發之
+疫苗接種預約平台"
+2335060012,苗栗縣後龍鎮衛生所,苗栗縣,後龍鎮,苗栗縣後龍鎮大庄里21鄰光華路375號1樓,120.7895,24.61168,,,,,037-722008,,,,,,,2021年7月3日 11:35晚上,Yoyowu,,"僅提供現場報名
+"
+2335070018,苗栗縣卓蘭鎮衛生所,苗栗縣,卓蘭鎮,苗栗縣卓蘭鎮老庄里中正路142號,120.8314,24.31263,,,,,04-25892027,,,,,,,2021年7月3日 11:36晚上,Yoyowu,,"僅提供電話報名
+"
+2335080014,苗栗縣大湖鄉衛生所,苗栗縣,大湖鄉,苗栗縣大湖鄉明湖村中原路87號,120.8659,24.42424,,,,,037-991034,,,,,,,2021年7月3日 11:36晚上,Yoyowu,,"僅提供現場報名
+"
+2335090010,苗栗縣公館鄉衛生所,苗栗縣,公館鄉,苗栗縣公館鄉館中村大同路75號,120.8277,24.49995,,,,,037-224732,,,,,,,2021年7月3日 11:37晚上,Yoyowu,,"僅提供現場報名
+"
+2335100011,苗栗縣銅鑼鄉衛生所,苗栗縣,銅鑼鄉,苗栗縣銅鑼鄉銅鑼村新興路81號,120.7929,24.48480,,,,,037-981006,,,,,,,2021年7月3日 11:38晚上,Yoyowu,,"僅提供現場報名
+"
+2335110017,苗栗縣南庄鄉衛生所,苗栗縣,南庄鄉,苗栗縣南庄鄉東村大同路17號,121.0000,24.59733,,,,,037-822024,,,,,,,2021年7月3日 11:39晚上,Yoyowu,,"僅提供現場報名與電話預約
+
+"
+2335120013,苗栗縣頭屋鄉衛生所,苗栗縣,頭屋鄉,苗栗縣頭屋鄉頭屋村中山街56巷54號,120.8498,24.57654,,,,,037-253534,,,,,,,2021年7月3日 11:39晚上,Yoyowu,,"僅提供電話報名
+"
+2335130019,苗栗縣三義鄉衛生所,苗栗縣,三義鄉,苗栗縣三義鄉復興路45號,120.7708,24.41338,,,,,037-872014,,,,,,,2021年7月3日 11:40晚上,Yoyowu,,"僅提供電話報名
+"
+2335140015,苗栗縣西湖鄉衛生所,苗栗縣,西湖鄉,苗栗縣西湖鄉龍洞村1鄰16號,120.7708,24.54510,,,,,037-921211,,,,,,,2021年7月3日 11:41晚上,Yoyowu,,"僅提供電話報名
+"
+2335150011,苗栗縣造橋鄉衛生所,苗栗縣,造橋鄉,苗栗縣造橋鄉造橋村14鄰8－2號,120.8643,24.63672,,,,,037-542755,,,,,,,2021年7月3日 11:42晚上,Yoyowu,,"僅提供現場報名
+"
+2335160017,苗栗縣三灣鄉衛生所,苗栗縣,三灣鄉,苗栗縣三灣鄉三灣村親民路17號,120.9566,24.65284,,,,,037-831140,,,,,,,2021年7月3日 11:42晚上,Yoyowu,,"僅提供現場報名與電話預約
+
+"
+2335170013,苗栗縣獅潭鄉衛生所,苗栗縣,獅潭鄉,苗栗縣獅潭鄉新店村130之6號,120.9201,24.53920,,,,,037-931309,,,,,,,2021年7月3日 11:43晚上,Yoyowu,,"僅提供現場報名與電話預約
+
+"
+2335180019,苗栗縣泰安鄉衛生所,苗栗縣,泰安鄉,苗栗縣泰安鄉清安村2鄰72號,120.9083,24.44722,,,,,037-941054,,,,,,,2021年7月3日 11:44晚上,Yoyowu,,"僅提供現場報名與電話預約
+
+"
+0117030010,衛生福利部臺中醫院,臺中市,西區,臺中市西區三民路一段199號,120.6757,24.14023,https://www.taic.mohw.gov.tw/?aid=301&page_name=detail&iid=5897,,https://www03.taic.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=01CC&Date=&Noon=,,04-22294411,,,,,,,2021年7月3日 11:44晚上,Yoyowu,衛福部系列,
+0136010010,衛生福利部豐原醫院,臺中市,豐原區,臺中市豐原區安康路100號,120.7253,24.24271,https://web1.fyh.mohw.gov.tw/oinetregweb/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0119&Date=&Noon=,,https://web1.fyh.mohw.gov.tw/oinetregweb/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0119&Date=&Noon=,,04-25271180,,,,,,,2021年7月3日 11:45晚上,Yoyowu,衛福部系列,
+0517050010,國軍台中總醫院附設民眾診療服務處中清分院,臺中市,北區,臺中市北區忠明路500號,120.6722,24.16228,https://803.mnd.gov.tw/816/2021/04/19/covid-19%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e5%85%ac%e5%91%8a/,,https://803.mnd.gov.tw/816/2021/04/19/covid-19%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e5%85%ac%e5%91%8a/,,04-22037320,,,,,,,2021年7月4日 11:29上午,Dora lyn,,"僅提供電話報名 by SL
+"
+0536190011,國軍臺中總醫院附設民眾診療服務處,臺中市,太平區,臺中市太平區中山路2段348號,120.7301,24.15081,https://web-reg-server.803.org.tw/stepB3.asp,,https://web-reg-server.803.org.tw/stepB3.asp,,04-23934191,,,,,,,2021年7月3日 11:46晚上,Yoyowu,醫院各自系統,
+0617060018,臺中榮民總醫院,臺中市,西屯區,臺中市西屯區臺灣大道4段 1650號,120.6046,24.18430,http://regws.vghtc.gov.tw/COVID19VaccReg,,http://regws.vghtc.gov.tw/COVID19VaccReg/#/SelectVACCType,,04-23592525,,,,,,,2021年7月4日 3:42下午,Yoyowu,台中榮總系列,
+0903150014,林新醫療社團法人烏日林新醫院,臺中市,烏日區,臺中市烏日區榮和路168號,120.5980,24.10959,http://wlshosp.org.tw/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/covid-19%E7%96%AB%E8%8B%97%E9%A0%90%E7%B4%84%E6%8E%A5%E7%A8%AE%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/,,http://www.wlshosp.org.tw:8000/OReg/OpoDoctorsVisitListPage?sectcategory=%20%20%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E5%B0%88%E5%8D%80&sectid=0299&sectname=%E7%96%AB%E8%8B%97%E9%A0%90%E7%B4%84&showcd=N,,04-23388766,,,,,,,2021年7月4日 12:00早上,Yoyowu,醫院各自系統,
+0917070029,林新醫療社團法人林新醫院,臺中市,南屯區,臺中市南屯區惠中路3段36號,120.6402,24.14904,http://www.lshosp.com.tw/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/covid-19%E7%96%AB%E8%8B%97%E9%A0%90%E7%B4%84%E6%8E%A5%E7%A8%AE%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/,,http://www.lshosp.com.tw/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/75-covid-19%E5%85%AC%E8%B2%BB%E7%96%AB%E8%8B%97%E9%A0%90%E7%B4%84%E6%8E%A5%E7%A8%AE%E9%A0%88%E7%9F%A5/,,04-22586688,,,,,,,2021年7月4日 12:00早上,Yoyowu,,"僅提供電話報名
+"
+0936030018,李綜合醫療社團法人大甲李綜合醫院,臺中市,大甲區,臺中市大甲區八德街2號,120.6181,24.35078,http://www.leehospital.com.tw/%E7%B6%B2%E8%B7%AF%E6%8E%9B%E8%99%9F/Covid19.asp,,http://www.leehospital.com.tw/%E7%B6%B2%E8%B7%AF%E6%8E%9B%E8%99%9F/covid19d.asp,,04-26862288,,,,,,,2021年7月4日 12:01早上,Yoyowu,李綜合醫院系列,
+0936060016,童綜合醫療社團法人童綜合醫院,臺中市,梧棲區,臺中市梧棲區臺灣大道八段699號,120.5425,24.24729,https://www.sltung.com.tw/news_d/486/501/1013/0/0/12371,,https://www.sltung.com.tw/news_d/486/501/1013/0/0/12371,,04-26581919,,,,,,,2021年7月4日 12:02早上,Yoyowu,醫院各自系統,
+1136090519,佛教慈濟醫療財團法人台中慈濟醫院,臺中市,潭子區,臺中市潭子區豐興路1段66、88號,120.7229,24.20364,https://taichung.tzuchi.com.tw/news/9/1981,,http://app.tzuchi.com.tw/tchw/OpdReg/OpdTimeShow.aspx?depart=COVID-19%e7%96%ab%e8%8b%97%e8%a8%ba&HospLoc=7,,04-36060666,,,,,,,2021年7月5日 11:26上午,Dora lyn,慈濟系列,
+1136200015,仁愛醫療財團法人大里仁愛醫院,臺中市,大里區,臺中市大里區東榮路483號,120.6804,24.10926,https://www.jah.org.tw/news/index-1.asp?m=9&m1=7&m2=69&id=2771,,https://www.jah.org.tw/netreg/C19_check.asp?m=99&m1=4&m2=428&gp=29&s=1&s1=104,,04-24819900,,,,,,,2021年7月4日 12:06早上,Yoyowu,醫院各自系統,
+1303180011,亞洲大學附屬醫院,臺中市,霧峰區,臺中市霧峰區福新路222號,120.6862,24.05356,https://www.auh.org.tw/NewsInfo/NewsArticle?no=1298,,https://appointment.auh.org.tw/cgi-bin/as/reg51.cgi?DocNo=DD001&sstus=3,,04-37061668,,,,,,,2021年7月4日 12:08早上,Yoyowu,醫院各自系統,
+1317040011,中山醫學大學附設醫院,臺中市,南區,臺中市南區建國北路一段110號,120.6499,24.12175,http://sysint.csh.org.tw/CSHVaccine/CSHEmployeeVaccine.aspx,,https://sysint.csh.org.tw/CSHVaccine/CSHVaccineCov19.aspx,,04-24739595,,,,,,,2021年7月4日 12:10早上,Yoyowu,醫院各自系統,
+1317050017,中國醫藥大學附設醫院,臺中市,北區,臺中市北區育德路2號,120.6805,24.15773,https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=7216,,https://www.cmuh.cmu.edu.tw/Service/OnlineAppointment,,04-22062121,,,,,,,2021年7月3日 5:41下午,Dora lyn,中國醫藥大學系列,
+1517011112,澄清綜合醫院,臺中市,中區,臺中市中區平等街139號,120.6816,24.14260,http://www.ccgh.com.tw/PT2/html/webdetail.aspx?pagetype=2&otherkind=1&pageno=1&page=1,,http://www.ccgh.com.tw/PT2/html/webtemplate.aspx?pagetype=4-1&otherkind=P-0001&pageno=13010&pageno2=13072,,04-24632000,,,,,,,2021年7月4日 12:11早上,Yoyowu,澄清醫院系列,
+1517061032,澄清綜合醫院中港分院,臺中市,西屯區,臺中市西屯區臺灣大道4段966號,120.6170,24.18285,http://www.ccgh.com.tw/html/webdetail.aspx?pagetype=2&otherkind=1&pageno=1&page=2,,http://www.ccgh.com.tw/html/webapbantable.aspx?type_id=A&id=10827&pagetype=3&otherkind=1&type=1&qDept=01,,04-24632000,,,,,,,2021年7月4日 12:11早上,Yoyowu,澄清醫院系列,
+2317050018,臺中市北區衛生所,臺中市,北區,臺中市北區永興街301號4樓,120.6822,24.16604,https://www.health.taichung.gov.tw/1781358/post,,,,04-22359182,,,,,,,2021年7月4日 12:18早上,Yoyowu,,"6/30-7/5暫停疫苗業務
+"
+2336030018,臺中市大甲區衛生所,臺中市,大甲區,臺中市大甲區德興路81號,120.6245,24.35019,https://www.health.taichung.gov.tw/1781358/post,,,,04-26872153,,,,,,,2021年7月4日 12:18早上,Yoyowu,,"6/30-7/5暫停疫苗業務
+"
+2336120017,臺中市石岡區衛生所,臺中市,石岡區,臺中市石岡區石岡街6號,120.7776,24.27601,https://www.health.taichung.gov.tw/1781358/post,,,,04-25721887,,,,,,,2021年7月4日 12:18早上,Yoyowu,,"6/30-7/5暫停疫苗業務
+"
+2336180013,臺中市霧峰區衛生所,臺中市,霧峰區,臺中市霧峰區本堂里民生路1－9號,120.7007,24.06081,https://www.health.taichung.gov.tw/1781358/post,,,,04-23393022,,,,,,,2021年7月4日 12:18早上,Yoyowu,,"6/30-7/5暫停疫苗業務
+"
+2336190019,臺中市太平區衛生所,臺中市,太平區,臺中市太平區中山路1段213之1號,120.7316,24.14254,https://www.health.taichung.gov.tw/1781358/post,,,,04-23938083,,,,,,,2021年7月4日 12:18早上,Yoyowu,,"6/30-7/5暫停疫苗業務
+"
+0936050029a,光田醫療社團法人光田綜合醫院-沙鹿院區,臺中市,沙鹿區,臺中市沙鹿區沙田路117號,120.5588,24.23532,臺中市沙鹿區沙田路117號,,http://www.ktgh.com.tw/Reg_Covid_19.asp,,(04)2662-5111,,,,,,,2021年7月4日 12:16早上,Yoyowu,光田醫院系列,"用同一網址預約
+"
+0936050029b,光田醫療社團法人光田綜合醫院-大甲院區,臺中市,大甲區,台中市大甲區經國路321號,120.6163,24.34668,台中市大甲區經國路321號,,http://www.ktgh.com.tw/Reg_Covid_19.asp,,(04)2688-5599,,,,,,,2021年7月4日 12:20早上,Yoyowu,光田醫院系列,"用同一網址預約
+"
+0137170515,衛生福利部彰化醫院,彰化縣,埔心鄉,彰化縣埔心鄉舊館村中正路二段80號,120.5273,23.95023,https://reg.chhw.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=C&Way=Dept&DivDr=0111&Date=&Noon=,,https://reg.chhw.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=C&Way=Dept&DivDr=0111&Date=&Noon=,,04-8298686,,,,,,,2021年7月4日 3:22下午,Yoyowu,醫院各自系統,
+0937010019,秀傳醫療社團法人秀傳紀念醫院,彰化縣,彰化市,彰化縣彰化市南瑤里中山路1段542號,120.5375,24.06479,https://www.scmh.org.tw/RegCal.aspx?Dept=MM&Kind=2,,https://www.scmh.org.tw/RegCal.aspx?Dept=MM&Kind=2,,04-7256166,,,,,,,2021年7月4日 11:41中午,Dora lyn,秀傳系列,
+0937030012,道周醫院,彰化縣,和美鎮,彰化縣和美鎮和光路180號、和善路118號,120.4919,24.11057,http://www.farlinhospital.com/images/new/covid-19%E7%96%AB%E8%8B%97%E9%96%8B%E6%89%93.JPG,,http://www.farlinhospital.com/images/new/covid-19%E7%96%AB%E8%8B%97%E9%96%8B%E6%89%93.JPG,,04-7566995,,,,,,,2021年7月4日 3:22下午,Yoyowu,醫院各自系統,"僅提供電話報名
+"
+0937050024,惠來醫療社團法人宏仁醫院,彰化縣,員林市,彰化縣員林市惠來街89號、91號,120.5703,23.95527,https://docs.google.com/forms/d/e/1FAIpQLSfiFJQ8Fw6HFj7Xj5FDdD6ZYIt09b29vdFZnP8OlAaXvso9nw/viewform,,https://docs.google.com/forms/d/e/1FAIpQLSfiFJQ8Fw6HFj7Xj5FDdD6ZYIt09b29vdFZnP8OlAaXvso9nw/closedform,,04-8375878,,,,,,,2021年7月4日 3:23下午,Yoyowu,google表單系列,
+1137010024,彰化基督教醫療財團法人彰化基督教醫院,彰化縣,彰化市,彰化縣彰化市南校街135號、中華路176號、旭光路235、320號,120.5445,24.07149,https://www.cch.org.tw/news_page.aspx?Id=144#,,https://dpt.cch.org.tw/res_vaccine/res.aspx,,04-7238595,,,,,,,2021年7月4日 3:26下午,Yoyowu,彰基醫院系列,"目前網路僅提供第二劑預約
+"
+1137010051,彰化基督教醫療財團法人漢銘基督教醫院,彰化縣,彰化市,彰化縣彰化市中山路一段366號,120.5358,24.06130,https://hm.cch.org.tw/news_detial.aspx?cID=1&Key=116,,https://hm.cch.org.tw/news_detial.aspx?cID=1&Key=116,,04-7113456,,,,,,,2021年7月4日 3:27下午,Yoyowu,彰基醫院系列,
+1137020511,秀傳醫療財團法人彰濱秀傳紀念醫院,彰化縣,鹿港鎮,彰化縣鹿港鎮鹿工路6號、6－2號,120.4111,24.07827,https://www.cbshow.org.tw/changbin/RegCal.aspx?Dept=MM&Kind=2,,https://www.cbshow.org.tw/changbin/RegCal.aspx?Dept=MM&Kind=2,,04-7813888,,,,,,,2021年7月4日 11:40中午,Dora lyn,秀傳系列,
+1137020520,彰化基督教醫療財團法人鹿港基督教醫院,彰化縣,鹿港鎮,彰化縣鹿港鎮中正路480號、永安二路37號、安福街45號,120.4382,24.06038,http://www.rc.cch.org.tw/news_detial.aspx?cID=1&Key=2432,,,,04-7779595,,,,,,,2021年7月4日 3:28下午,Yoyowu,彰基醫院系列,僅提供電話報名
+1137050019,彰化基督教醫療財團法人員林基督教醫院,彰化縣,員林市,彰化縣員林市莒光路456號,120.5670,23.96275,https://bc.cch.org.tw/news_detial.aspx?cID=1&Key=426,,https://bc.cch.org.tw/BCRG/opd/service-e.aspx?id=7700&Page=11&#p,,04-8381456,,,,,,,2021年7月4日 3:31下午,Yoyowu,彰基醫院系列,"掛其他科，新冠疫苗診
+"
+1137080017,彰化基督教醫療財團法人二林基督教醫院,彰化縣,二林鎮,彰化縣二林鎮南光里大成路一段558號、安和街40巷28號2樓,120.3711,23.89848,https://erhlin.cch.org.tw/news_detial.aspx?cID=1&Key=128,,https://erhlin.cch.org.tw/20rg/opd/Service-e.aspx,,04-8952031,,,,,,,2021年7月4日 3:31下午,Yoyowu,彰基醫院系列,"掛其他科，新冠疫苗診
+"
+1537040066,卓醫院,彰化縣,北斗鎮,彰化縣北斗鎮西安里中山路一段311號,120.5155,23.87228,https://docs.google.com/forms/d/e/1FAIpQLSdpYfIuWqdcQ295WbggrKmRa9fZUlBUNQmZEvt6pwV9yqYmXg/viewform,,,,04-8882995,,,,,,,2021年7月4日 3:33下午,Yoyowu,,"無法找到任何資料
+"
+1537051292,員生醫院,彰化縣,員林市,彰化縣員林市莒光路359號,120.5664,23.95925,https://www.ysh.org.tw/,,,,04-8383995,,,,,,,2021年7月4日 3:35下午,Yoyowu,,"無法找到任何資料
+"
+2337010010,彰化縣彰化市南西北區衛生所,彰化縣,彰化市,彰化縣彰化市華北里旭光路166號,120.5463,24.07292,https://swnphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrl5eYocja,,,,04-7282141,,,,,,,2021年7月4日 3:38下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337010029,彰化縣彰化市東區衛生所,彰化縣,彰化市,彰化縣彰化市香山里彰南路2段346巷31弄26號,120.5866,24.08185,https://djuphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNqlZmYocja,,,,04-7381647,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337020016,彰化縣鹿港鎮衛生所,彰化縣,鹿港鎮,彰化縣鹿港鎮順興里復興路423號,120.4347,24.05870,https://lugphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrmJSYocja,,,,04-7772309,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337030012,彰化縣和美鎮衛生所,彰化縣,和美鎮,彰化縣和美鎮和東里彰美路5段319號,120.4994,24.11082,https://hemphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNqnJaYocja,,,,04-7062455,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337040018,彰化縣北斗鎮衛生所,彰化縣,北斗鎮,彰化縣北斗鎮光復里地政路406巷17號,120.5249,23.87514,https://bedphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNtmJuYocja,,,,04-8882059,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337050014,彰化縣員林市衛生所,彰化縣,員林市,彰化縣員林市仁美里博愛路229號,120.5725,23.96209,https://yliphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNqmpOYocja,,,,04-7060230,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337060010,彰化縣溪湖鎮衛生所,彰化縣,溪湖鎮,彰化縣溪湖鎮湖東里青雅路36號,120.4834,23.96596,https://shuphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrm5OYocja#gsc.tab=0,,,,04-8815112,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337070016,彰化縣田中鎮衛生所,彰化縣,田中鎮,彰化縣田中鎮西路里斗中路一段222號,120.5805,23.86152,https://tijphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNsm5WYocja,,,,04-8742053,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337080012,彰化縣二林鎮衛生所,彰化縣,二林鎮,彰化縣二林鎮中正路1號1樓,120.3695,23.89931,https://erlphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNtmJiYocja,,,,04-8960035,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337090018,彰化縣線西鄉衛生所,彰化縣,線西鄉,彰化縣線西鄉寓埔村和線路957巷2號,120.4704,24.13038,https://ssiphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrlpKYocja,,,,04-7585201,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337100019,彰化縣伸港鄉衛生所,彰化縣,伸港鄉,彰化縣伸港鄉大同村中興路2段197號,120.4856,24.15926,https://sgaphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNsmpKYocja,,,,04-7982034,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337110015,彰化縣福興鄉衛生所,彰化縣,福興鄉,彰化縣福興鄉福興村福興路51巷2號,120.4279,24.04744,https://fusphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNqnJiYocja,,,,04-7772371,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337120020,彰化縣秀水鄉衛生所,彰化縣,秀水鄉,彰化縣秀水鄉安東村中山路288號,120.5033,24.03534,https://sisphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrlpKYocja,,,,04-7693001,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337130017,彰化縣花壇鄉衛生所,彰化縣,花壇鄉,彰化縣花壇鄉長沙村中正路11號,120.5487,24.02815,https://hutphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrmJOYocja,,,,04-7862035,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337140013,彰化縣芬園鄉衛生所,彰化縣,芬園鄉,彰化縣芬園鄉社口村公園1街11號,120.6281,24.01278,https://fyuphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNym8GnmNo%3D,,,,(049) 252-2904,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337150019,彰化縣大村鄉衛生所,彰化縣,大村鄉,彰化縣大村鄉大村村中正西路340號,120.5470,23.99354,https://datphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNqm5mYocja,,,,04-8520513,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337160015,彰化縣埔鹽鄉衛生所,彰化縣,埔鹽鄉,彰化縣埔鹽鄉好修村員鹿路二段58號,120.4633,24.00035,https://puyphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrnpqYocja,,,,04-8653596,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337170011,彰化縣埔心鄉衛生所,彰化縣,埔心鄉,彰化縣埔心鄉義民村員鹿路2段340號,120.5439,23.95299,https://pusphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNsmpOYocja,,,,04-8294611,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337180017,彰化縣永靖鄉衛生所,彰化縣,永靖鄉,彰化縣永靖鄉永西村西興路91號,120.5477,23.92504,https://yugphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrlpSYocja,,,,04-8221057,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337190013,彰化縣社頭鄉衛生所,彰化縣,社頭鄉,彰化縣社頭鄉社頭村員集路二段409號,120.5861,23.90191,https://stophc.chshb.gov.tw/newsin.php?c=npncp5bKnqNslpiYocja,,,,04-8732038,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337200014,彰化縣二水鄉衛生所,彰化縣,二水鄉,彰化縣二水鄉二水村過圳路19號,120.6155,23.81181,https://ersphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrmJuYocja,,,,04-8791077,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337210010,彰化縣田尾鄉衛生所,彰化縣,田尾鄉,彰化縣田尾鄉饒平村光復路2段608號,120.5329,23.88999,https://tiwphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrlpmYocja,,,,04-8832145,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337220016,彰化縣埤頭鄉衛生所,彰化縣,埤頭鄉,彰化縣埤頭鄉合興村健安街119號,120.4573,23.89490,https://btophc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrlpaYocja,,,,04-8922445,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337230012,彰化縣芳苑鄉衛生所,彰化縣,芳苑鄉,彰化縣芳苑鄉仁愛村斗苑路芳苑段249、251號1樓,120.3204,23.92498,https://fayphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrlpKYocja,,,,04-8983134,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337240018,彰化縣大城鄉衛生所,彰化縣,大城鄉,彰化縣大城鄉大城村中平路126號,120.3207,23.85331,https://dacphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNqnZiYocja,,,,04-8941323,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337250014,彰化縣竹塘鄉衛生所,彰化縣,竹塘鄉,彰化縣竹塘鄉元竹村東陽路一段58之1號,120.4281,23.86054,https://jutphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrlpOYocja,,,,04-8972009,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+2337260010,彰化縣溪州鄉衛生所,彰化縣,溪州鄉,彰化縣溪州鄉尾厝村溪下路570號,120.4984,23.85134,https://shjphc.chshb.gov.tw/newsin.php?c=npncp5bKnqNrnZuYocja,,,,04-8895023,,,,,,,2021年7月4日 3:37下午,Yoyowu,彰化衛生所系列,"僅提供電話報名
+"
+0138010027,衛生福利部南投醫院,南投縣,南投市,南投縣南投市康壽里復興路478號,120.6853,23.91409,https://netreg01.nant.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0219&Date=&Noon=,,https://netreg01.nant.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0219&Date=&Noon=,,(049) 223-1150,,,,,,,2021年7月4日 3:40下午,Yoyowu,衛福部系列,
+0638020014,臺中榮民總醫院埔里分院,南投縣,埔里鎮,南投縣埔里鎮蜈蚣里榮光路1號,120.9968,23.97580,http://covid-19.pulivh.gov.tw/OutSite/COVID19/COVID19Res.aspx,,http://covid-19.pulivh.gov.tw/OutSite/COVID19/COVID19Res.aspx,,(049) 299-0833,,,,,,,2021年7月4日 3:41下午,Yoyowu,台中榮總系列,
+0938030016,佑民醫療社團法人佑民醫院,南投縣,草屯鎮,南投縣草屯鎮太平路一段200號,120.6819,23.96054,http://web.yumin.com.tw/OReg/OpoDoctorsVisitListPage?sectcategory=NONE&sectid=1101&sectname=%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%96%AB%E8%8B%97%E6%B3%A8%E5%B0%84%E7%89%B9%E5%88%A5%E9%96%80%E8%A8%BA&showcd=N,,http://web.yumin.com.tw/OReg/OpoDoctorsVisitListPage?sectcategory=NONE&sectid=1101&sectname=%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%96%AB%E8%8B%97%E6%B3%A8%E5%B0%84%E7%89%B9%E5%88%A5%E9%96%80%E8%A8%BA&showcd=N,,(049) 235-8151,,,,,,,2021年7月4日 3:42下午,Yoyowu,醫院各自系統,
+1138010019,彰化基督教醫療財團法人南投基督教醫院,南投縣,南投市,南投縣南投市中興路870號,120.6839,23.89883,https://ny.cch.org.tw/nyrg/opd/service-e.aspx?id=7700&Page=11&#p,,https://ny.cch.org.tw/nyrg/opd/service-e.aspx?id=7700&Page=11&#p,,(049) 222-5595,,,,,,,2021年7月4日 3:43下午,Yoyowu,彰基醫院系列,
+1138020015,埔基醫療財團法人埔里基督教醫院,南投縣,埔里鎮,南投縣埔里鎮愛蘭里鐵山路1號,120.9468,23.97093,http://web2.pch.org.tw/Booking/Covid19Reg/Covid19Reg.aspx,,http://web2.pch.org.tw/Booking/Covid19Reg/Covid19Reg.aspx,,(049) 291-2151,,,,,,,2021年7月4日 3:43下午,Yoyowu,醫院各自系統,
+1538041101,竹山秀傳醫院,南投縣,竹山鎮,南投縣竹山鎮山崇里集山路2段75號,120.7141,23.80015,http://www.csshow.org.tw/covid19res/,,http://www.csshow.org.tw/covid19res/,,(049) 262-4266,,,,,,,2021年7月4日 11:40中午,Dora lyn,醫院各自系統,需要驗證身份 by SL
+2338010014,南投縣南投市衛生所,南投縣,南投市,南投縣南投市三和里三和一路13號,120.6888,23.90251,https://docs.google.com/forms/d/e/1FAIpQLSchMQzk77gl8fGhnq9YVLCnz3wUxWFhnXYbCGAqrJxjaapb4g/viewform,,,,(049) 222-3264,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+2338020010,南投縣埔里鎮衛生所,南投縣,埔里鎮,南投縣埔里鎮中山路二段256號,120.9686,23.96704,https://docs.google.com/forms/d/e/1FAIpQLSfq_BXZk_5ZgfbMbXEN_6IvUdiXUkUsp9ZmA2Ag1vXW8b-bSQ/viewform,,,,(049) 298-2157,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+2338030016,南投縣草屯鎮衛生所,南投縣,草屯鎮,南投縣草屯鎮草溪路882巷7號,120.6807,23.97327,https://docs.google.com/forms/d/e/1FAIpQLSeL1I4rBrp969irac-Ibv5ekQAvyJqZtMqt81309dDi-PCheg/viewform,,,,(049) 236-2023,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+2338040012,南投縣竹山鎮衛生所,南投縣,竹山鎮,南投縣竹山鎮公所路126號,120.6723,23.75944,https://docs.google.com/forms/d/e/1FAIpQLScZmTchjpVpNUMplpKFyyEGUC_a1N2hFb3b1zvp80HYLpBu4Q/viewform,,,,(049) 264-2026,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+2338050018,南投縣集集鎮衛生所,南投縣,集集鎮,南投縣集集鎮民生路106號,120.7866,23.82890,https://docs.google.com/forms/d/e/1FAIpQLSdDrSFk54dHb_59YpvgniYiAsi1GpsgtNJjiPjjrqk8qAizxw/viewform,,,,(049) 276-2015,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+2338060014,南投縣名間鄉衛生所,南投縣,名間鄉,南投縣名間鄉中正村彰南路42號,120.7029,23.83852,https://docs.google.com/forms/d/e/1FAIpQLScmunbibh1EPZBh2c-T_tIrW5Qqc7lbk3cBUrCIok4c0MeQ4Q/viewform,,,,(049) 273-2135,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+2338070010,南投縣鹿谷鄉衛生所,南投縣,鹿谷鄉,南投縣鹿谷鄉中正路二段20號,120.7542,23.74488,https://docs.google.com/forms/d/e/1FAIpQLScdHBdFx2-ftwo8H9HvdtYlVJFBqwiNgi9DGQNsdClcfBsFAA/viewform,,,,(049) 275-2002,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+2338080016,南投縣中寮鄉衛生所,南投縣,中寮鄉,南投縣中寮鄉永平村永昌街102號,120.7657,23.88100,https://docs.google.com/forms/d/e/1FAIpQLSfYVBhsTDbljYolEpxv_qJoe5RH7XAI-riwuWGlx0F0gQezUg/viewform,,,,(049) 269-1404,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+2338090012,南投縣魚池鄉衛生所,南投縣,魚池鄉,南投縣魚池鄉東池村魚池街194號,120.9413,23.89552,https://docs.google.com/forms/d/1DkaEX45rXb4yZEPIUuLCyo5cARuJi1d1DFKK0gFiWI4/edit,,,,(049) 289-5513,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+2338100013,南投縣國姓鄉衛生所,南投縣,國姓鄉,南投縣國姓鄉國姓村民族街42號,120.8547,24.03788,https://docs.google.com/forms/d/e/1FAIpQLSfGdIBLebuAKP6Yv7TQVjBXOwOYTacG-PHd9z_CQq9h-xW1LQ/viewform,,,,(049) 272-1009,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+2338110019,南投縣水里鄉衛生所,南投縣,水里鄉,南投縣水里鄉博愛路205號,120.8490,23.81050,https://docs.google.com/forms/d/e/1FAIpQLSeHwxYGksD3ME7JPTVBbKaTa_iRK87sH1A94vpSwfHCHwNOMw/viewform?OCID=MY01SV&form=MY01SV,,,,(049) 277-0079,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+2338120015,南投縣信義鄉衛生所,南投縣,信義鄉,南投縣信義鄉明德村玉山路45號,120.8547,23.69653,https://docs.google.com/forms/d/e/1FAIpQLSfLYeJgWryjotYvGGx8mS7Fr6aEp-fVW5f6hZHqL1KhqpC0dg/viewform,,,,(049) 279-1148,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+2338130011,南投縣仁愛鄉衛生所,南投縣,仁愛鄉,南投縣仁愛鄉大同村五福巷17號,121.1343,24.02430,https://docs.google.com/forms/d/e/1FAIpQLScAUx8aqEP8BWQS82DrTQCKlsakvC57-5n4233V8HTbDUYz0w/viewform,,,,(049) 280-2341,,,,,,,2021年7月4日 3:59下午,Yoyowu,,"不再使用連結報名，
+僅提供電話報名
+"
+0439010518,國立臺灣大學附設醫院雲林分院,雲林縣,斗六市,雲林縣斗六市雲林路二段579號,120.5259,23.69766,https://web.ylh.gov.tw/covid-19/,,https://reg.ntuh.gov.tw/WebAdministration/VaccineClinicReg.aspx?Hosp=Y0&Reg=&cliniccode=03,,05-5323911,,,,,,,2021年7月3日 5:55下午,Dora lyn,台大醫院系列,
+0439010527,國立成功大學醫學院附設醫院斗六分院,雲林縣,斗六市,雲林縣斗六市莊敬路345號,120.5456,23.70313,https://d6www.hosp.ncku.edu.tw/WebRegisterSite/MainUI.aspx?Lang=&skv=EzNec8%2bb3ObBGuEQakq0QawPuiWkTewUO9FjEuW3Njo%3d,,https://d6www.hosp.ncku.edu.tw/WebRegisterSite/MainUI.aspx?Lang=&skv=EzNec8%2bb3ObBGuEQakq0QawPuiWkTewUO9FjEuW3Njo%3d,,05-5332121,,,,,,,2021年7月4日 9:16晚上,Yoyowu,成大醫院系列ˊ,
+1139030015,天主教若瑟醫療財團法人若瑟醫院,雲林縣,虎尾鎮,雲林縣虎尾鎮新生路74號,120.4379,23.70821,http://www.stjoho.org.tw/www2012/news.aspx?newsno=20067,,https://www.stjoho.org.tw/www2012/guide4_2c.aspx?l=afab3,,05-6337333,,,,,,,2021年7月4日 9:18晚上,Yoyowu,醫院各自系統,
+1139040011,彰化基督教醫療財團法人雲林基督教醫院,雲林縣,西螺鎮,雲林縣西螺鎮新豐里市場南路371、375號,120.4413,23.78024,https://web2yl.cch.org.tw/TIrg/opd/service-e.aspx?id=7800&Page=11&#p,,https://web2yl.cch.org.tw/TIrg/opd/service-e.aspx?id=7800&Page=11&#p,,05-5871111,,,,,,,2021年7月4日 9:18晚上,Yoyowu,彰基醫院系列,
+1139130010,長庚醫療財團法人雲林長庚紀念醫院,雲林縣,麥寮鄉,雲林縣麥寮鄉中興村工業路1500號,120.2183,23.79518,https://register.cgmh.org.tw/Department/M/M0990D,,https://register.cgmh.org.tw/Department/M/M0990D,,05-6915151,,,,,,,2021年7月4日 9:29晚上,Yoyowu,長庚醫院系列,
+1339060017,中國醫藥大學北港附設醫院,雲林縣,北港鎮,雲林縣北港鎮新街里新德路123號,120.3078,23.59176,http://www.bh.cmu.edu.tw/cgi-bin/bh/reg51.cgi?DocNo=D9999&sstus=3,,http://www.bh.cmu.edu.tw/cgi-bin/bh/reg51.cgi?DocNo=D9999&sstus=3,,05-7837901,,,,,,,2021年7月3日 5:41下午,Dora lyn,醫院各自系統,
+2339050012,雲林縣土庫鎮衛生所,雲林縣,土庫鎮,雲林縣土庫鎮忠正里中山路254號,120.3927,23.67834,,,,,05-6622638,,,,,,,2021年7月4日 9:31晚上,Yoyowu,,"僅提供現場報名
+"
+2339120019,雲林縣崙背鄉衛生所,雲林縣,崙背鄉,雲林縣崙背鄉南陽村南光路34號,120.3531,23.75981,,,,,05-6962009,,,,,,,2021年7月4日 9:31晚上,Yoyowu,,無任何網路資訊
+2339180015,雲林縣四湖鄉衛生所,雲林縣,四湖鄉,雲林縣四湖鄉施湖村中山西路118號,120.2217,23.63784,,,,,05-7872890,,,,,,,2021年7月4日 9:32晚上,Yoyowu,,無任何網路資訊
+0439010518,國立臺灣大學醫學院附設醫院雲林分院(虎尾院區),雲林縣,虎尾鎮,雲林縣虎尾鎮學府路95號,120.4248,23.73503,https://web.ylh.gov.tw/covid-19/,,https://web.ylh.gov.tw/covid-19/,,(05)633-0002,,,,,,,2021年7月4日 9:29晚上,Yoyowu,台大醫院系列,
+0122020517,衛生福利部嘉義醫院,嘉義市,西區,嘉義市西區福全里北港路312號,120.4308,23.47985,https://chyiwww001.chyi.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0227&Date=&Noon=,,https://chyiwww001.chyi.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0227&Date=&Noon=,,05-2319090,,,,,,,2021年7月4日 9:33晚上,Yoyowu,衛福部系列,
+0622020017,臺中榮民總醫院嘉義分院,嘉義市,西區,嘉義市西區劉厝里世賢路2段600號,120.4230,23.46755,http://61.60.38.27/COVID19/FormMain.aspx,,http://61.60.38.27/COVID19/FormMain.aspx,,05-2359630,,,,,,,2021年7月4日 10:12晚上,Yoyowu,台中榮總系列,
+1122010012,戴德森醫療財團法人嘉義基督教醫院,嘉義市,東區,嘉義市東區中庄里忠孝路539號、642號、保健街100號,120.4501,23.49940,https://www2.cych.org.tw/WebToNewRegister/opdregister2.aspx,,https://www2.cych.org.tw/WebToNewRegister/webDRCovidSchedule.aspx,,05-2765041,,,,,,,2021年7月4日 10:13晚上,Yoyowu,醫院各自系統,
+1122010021,天主教中華聖母修女會醫療財團法人天主教聖馬爾定醫院,嘉義市,東區,嘉義市東區大雅路二段565號,120.4671,23.47568,https://flw.stm.org.tw/reg/Home/DrChoose?deptGrouptID=CO&ran=f,,https://flw.stm.org.tw/reg/Home/DrChoose?deptGrouptID=CO&ran=f,,05-2756000,,,,,,,2021年7月4日 10:13晚上,Yoyowu,醫院各自系統,
+2322010017,嘉義市東區衛生所,嘉義市,東區,嘉義市東區大雅路二段625號,120.4663,23.47685,,,,,05-2750423,,,,,,,2021年7月4日 10:16晚上,Yoyowu,,無任何網路資訊
+2322020013,嘉義市西區衛生所,嘉義市,西區,嘉義市西區德明路1號,120.4312,23.47995,,,,,05-2337355,,,,,,,2021年7月4日 10:16晚上,Yoyowu,,無任何網路資訊
+0140010028,衛生福利部朴子醫院,嘉義縣,朴子市,嘉義縣朴子市永和里42－50號,120.2346,23.46443,https://netreg.puzih.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0208&Date=&Noon=,,https://netreg.puzih.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0208&Date=&Noon=,,05-3790600,,,,,,,2021年7月4日 10:16晚上,Yoyowu,衛福部系列,
+0640140012,臺中榮民總醫院灣橋分院,嘉義縣,竹崎鄉,嘉義縣竹崎鄉灣橋村石麻園38號,120.5064,23.48778,http://61.60.38.27/COVID19_WC/FormMain.aspx?WebMenuID=58f47136-25ae-47c0-856b-9e8f1ee1c429,,http://61.60.38.27/COVID19_WC/FormMain.aspx?WebMenuID=58f47136-25ae-47c0-856b-9e8f1ee1c429,,05-2791072,,,,,,,2021年7月4日 10:16晚上,Yoyowu,台中榮總系列,
+1140010510,長庚醫療財團法人嘉義長庚紀念醫院,嘉義縣,朴子市,嘉義縣朴子市仁和里長庚一路6號及嘉朴路西段8號,120.2840,23.46481,https://register.cgmh.org.tw/Department/6/60990D,,https://register.cgmh.org.tw/Department/6/60990D,,05-3621000,,,,,,,2021年7月4日 10:17晚上,Yoyowu,長庚醫院系列,
+1140030012,佛教慈濟醫療財團法人大林慈濟醫院,嘉義縣,大林鎮,嘉義縣大林鎮平林里民生路2號,120.4574,23.59631,http://dl99.tzuchi-healthcare.org.tw/tchw/covidvac/,,http://dl99.tzuchi-healthcare.org.tw/tchw/covidvac/,,05-2648000,,,,,,,2021年7月4日 10:17晚上,Yoyowu,慈濟系列,
+2340020011,嘉義縣布袋鎮衛生所,嘉義縣,布袋鎮,嘉義縣布袋鎮新厝里21號,120.1699,23.38144,,,,,05-3472032,,,,,,,2021年7月4日 10:20晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340030017,嘉義縣大林鎮衛生所,嘉義縣,大林鎮,嘉義縣大林鎮平林里中山路252號,120.4557,23.60678,,,,,05-2652042,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340040013,嘉義縣民雄鄉衛生所,嘉義縣,民雄鄉,嘉義縣民雄鄉中樂村文化路7之2號,120.4280,23.55145,,,,,05-2262018,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340050019,嘉義縣溪口鄉衛生所,嘉義縣,溪口鄉,嘉義縣溪口鄉溪北村二鄰中山路1號,120.3949,23.60641,,,,,05-2691046,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340060015,嘉義縣新港鄉衛生所,嘉義縣,新港鄉,嘉義縣新港鄉宮前村中山路167號,120.3477,23.55235,,,,,05-3742025,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340070011,嘉義縣六腳鄉衛生所,嘉義縣,六腳鄉,嘉義縣六腳鄉蒜頭村15鄰蒜頭73－1號,120.2905,23.49289,,,,,05-3802016,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340080017,嘉義縣東石鄉衛生所,嘉義縣,東石鄉,嘉義縣東石鄉東石村3之7號,120.1541,23.45926,,,,,05-3732340,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340090013,嘉義縣義竹鄉衛生所,嘉義縣,義竹鄉,嘉義縣義竹鄉仁里村義竹422－1號,120.2430,23.33719,,,,,05-3412032,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340110010,嘉義縣太保市衛生所,嘉義縣,太保市,嘉義縣太保市後潭里443號,120.3395,23.45298,,,,,05-3711273,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340120016,嘉義縣水上鄉衛生所,嘉義縣,水上鄉,嘉義縣水上鄉水上村正義路145號,120.3977,23.42826,,,,,05-2682059,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340130012,嘉義縣中埔鄉衛生所,嘉義縣,中埔鄉,嘉義縣中埔鄉中埔村中埔130號之1,120.5227,23.42559,,,,,05-2531008,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340150014,嘉義縣梅山鄉衛生所,嘉義縣,梅山鄉,嘉義縣梅山鄉華山路18號,120.5555,23.58640,,,,,05-2621249,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340160010,嘉義縣番路鄉衛生所,嘉義縣,番路鄉,嘉義縣番路鄉下坑村菜公店60號,120.5538,23.46319,,,,,05-2591148,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340180012,嘉義縣阿里山鄉衛生所,嘉義縣,阿里山鄉,嘉義縣阿里山鄉樂野村3鄰97－2號,120.7019,23.46660,電話,,,,05-2561573,,,,,,,2021年7月4日 10:21晚上,Yoyowu,,"依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+"
+2340180012,嘉義縣阿里山鄉衛生所香林衛生室,嘉義縣,阿里山鄉,嘉義縣阿里山鄉樂野村3鄰97－2號,120.7019,23.46660,,,,,05-2561573,,,,,,,2021年7月4日 10:44晚上,Dora lyn,,依嘉義衛生局規範，僅接受縣民預約，並只有現場預約
+1105040016,台灣基督長老教會新樓醫療財團法人麻豆新樓醫院,臺南市,麻豆區,臺南市麻豆區小埤里苓子林20號,120.2330,23.17987,http://class.sinlau.org.tw/mode02.asp?m=202104100907442&t=s&da=2,,https://rt01.sinlau.org.tw/sinlau/rt01/,,06-5702228,,,,,,,2021年7月3日 5:31下午,Dora lyn,新樓醫院系列,
+1105050012,奇美醫療財團法人佳里奇美醫院,臺南市,佳里區,臺南市佳里區佳興里佳里興606號,120.1837,23.18170,http://www.chimei.org.tw/opdschedule/index.aspx?ihosp=14&lang=CH,,https://www.chimei.org.tw/opdschedule/vaccineLogin.aspx?ihosp=14,,06-7263333,,,,,,,2021年7月3日 5:32下午,Dora lyn,奇美醫院系列,
+1141090512,奇美醫療財團法人柳營奇美醫院,臺南市,柳營區,臺南市柳營區太康里201號,120.3247,23.28927,http://www.chimei.org.tw/opdschedule/index.aspx?ihosp=13&lang=CH,,https://www.chimei.org.tw/opdschedule/vaccineLogin.aspx?ihosp=14,,06-6226999,,,,,,,2021年7月3日 5:32下午,Dora lyn,奇美醫院系列,
+1305370013,臺南市立安南醫院-委託中國醫藥大學興建經營,臺南市,安南區,臺南市安南區長和路二段66號,120.2232,23.06423,http://www.tmanh.org.tw/Service/OnlineAppointment,,http://www.tmanh.org.tw/Service/OnlineAppointment,,06-3553111,,,,,,,2021年7月3日 5:41下午,Dora lyn,中國醫藥大學系列,
+2341060019,臺南市新化區衛生所,臺南市,新化區,臺南市新化區健康路十三鄰143號,120.3048,23.03440,,,,,06-5905398,,,,,,,2021年7月3日 5:48下午,Dora lyn,,沒有線上的預約方式 by SL
+2341080011,臺南市學甲區衛生所,臺南市,學甲區,臺南市學甲區仁得里建國路38號1樓,120.1819,23.23028,,,,,06-7833359,,,,,,,2021年7月3日 5:48下午,Dora lyn,,沒有線上的預約方式 by SL
+2341130016,臺南市六甲區衛生所,臺南市,六甲區,臺南市六甲區二甲里26鄰中華路110號,120.3469,23.22467,,,,,06-6982013,,,,,,,2021年7月3日 5:48下午,Dora lyn,,沒有線上的預約方式 by SL
+2341230011,臺南市玉井區衛生所,臺南市,玉井區,臺南市玉井區玉田里中正路5號,120.4591,23.12235,,,,,06-5742275,,,,,,,2021年7月3日 5:48下午,Dora lyn,,沒有線上的預約方式 by SL
+1121010018,台灣基督長老教會新樓醫療財團法人台南新樓醫院,臺南市,東區,臺南市東區泉北里東門路1段57號,120.2128,22.98916,http://class.sinlau.org.tw/mode02.asp?m=202104100907442&t=sub&da=1,,https://rt01.sinlau.org.tw/sinlau/rt01/,,06-2748316,,,,,,,2021年7月3日 5:31下午,Dora lyn,新樓醫院系列,
+1141310019,奇美醫療財團法人奇美醫院,臺南市,永康區,臺南市永康區中華路901號、臺南市南區樹林街二段442號,120.2329,23.01043,http://www.chimei.org.tw/opdschedule/index.aspx?ihosp=10&lang=CH,,https://www.chimei.org.tw/opdschedule/vaccineLogin.aspx?ihosp=14,,06-2812811,,,,,,,2021年7月3日 5:32下午,Dora lyn,奇美醫院系列,
+0121050011,衛生福利部臺南醫院,臺南市,中西區,臺南市中西區中山路125號,120.2092,22.99582,https://tnweb.tnhosp.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0172&Date=&Noon=,,https://tnweb.tnhosp.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0172&Date=&Noon=,,06-2200055,,,,,,,2021年7月3日 5:43下午,Dora lyn,衛福部系列,
+0421040011,國立成功大學醫學院附設醫院,臺南市,北區,臺南市北區勝利路138號,120.2192,23.00221,https://service.hosp.ncku.edu.tw/Tandem/MainUI.aspx?Lang=&skv=EzNec8%2bb3ObBGuEQakq0QawPuiWkTewUO9FjEuW3Njo%3d,,https://service.hosp.ncku.edu.tw/Tandem/Covid19Vaccine.aspx?Lang=&skv=EzNec8%2bb3OanaNsI%2bILa6f3%2fypEkkZUS,,06-2353535,,,,,,,2021年7月4日 9:16晚上,Yoyowu,成大醫院系列ˊ,
+0905320023,台南市立醫院(委託秀傳醫療社團法人經營),臺南市,東區,臺南市東區崇德路670號,120.2267,22.96853,https://www.tmh.org.tw/TMH2016/RegCal.aspx?Dept=MM&Kind=2,,https://www.tmh.org.tw/TMH2016/RegCal.aspx?Dept=MM&Kind=2,,06-2609926,,,,,,,2021年7月4日 11:39中午,Dora lyn,秀傳系列,
+2341280011,臺南市歸仁區衛生所,臺南市,歸仁區,臺南市歸仁區中正北路1段1號,120.2943,22.96745,,,,,06-2304030,,,,,,,2021年7月3日 5:49下午,Dora lyn,,沒有線上的預約方式 by SL
+1521031104,郭綜合醫院,臺南市,中西區,臺南市民生路二段18．20．22．23．24．25．27號,120.1965,22.99485,http://www.kgh.com.tw/,,http://hosp.kgh.com.tw:8112/webreg/stepA2.asp?LabelInfo=CI%2C%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%96%AB%E8%8B%97%E8%A8%BA%E9%A0%90%E7%B4%84%2C1,,06-2221111,,,,,,,2021年7月3日 5:53下午,Dora lyn,醫院各自系統,
+0434010518,國立陽明交通大學附設醫院,宜蘭縣,宜蘭市,宜蘭縣宜蘭市校舍路169號、新民路152號,121.7580,24.75005,https://www.ymuh.ym.edu.tw/tw/index/message/7604-covid-19%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A8%AE%E6%B5%81%E7%A8%8B%E6%9A%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.html,"預約系統,電話預約",https://appweb.ymuh.ym.edu.tw/WebBookCovidVaccine/SelectRegTime.aspx,,03-9325192,,,,,,,2021年7月4日 10:45晚上,Dora lyn,醫院各自系統,
+1134010022,宜蘭仁愛醫療財團法人宜蘭仁愛醫院,宜蘭縣,宜蘭市,宜蘭縣宜蘭市中山路2段260號,121.7544,24.74874,http://www.jen-ai.org.tw/booking/Covid19Reg/Covid19Reg.aspx,"預約系統,電話預約",http://www.jen-ai.org.tw/booking/Covid19Reg/Covid19Reg.aspx,,03-9321888,,,,,,,2021年7月4日 10:46晚上,Dora lyn,醫院各自系統,需要驗證身份　by SL
+1134020019,醫療財團法人羅許基金會羅東博愛醫院,宜蘭縣,羅東鎮,宜蘭縣羅東鎮南昌街81、83號及站前南路61、63號,121.7704,24.67237,https://www.pohai.org.tw/register_detail.php?deptSysCode=A05&deptCode=A0501&deptChName=%E5%9A%B4%E9%87%8D%E7%89%B9%E6%AE%8A%E5%82%B3%E6%9F%93%E6%80%A7%E8%82%BA%E7%82%8E%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A8%AE,"預約系統,電話預約",https://www.pohai.org.tw/register_detail.php?deptSysCode=A05&deptCode=A0501&deptChName=%E5%9A%B4%E9%87%8D%E7%89%B9%E6%AE%8A%E5%82%B3%E6%9F%93%E6%80%A7%E8%82%BA%E7%82%8E%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A8%AE,,03-9543131,,,,,,,2021年7月4日 10:47晚上,Dora lyn,醫院各自系統,
+1134020028,天主教靈醫會醫療財團法人羅東聖母醫院,宜蘭縣,羅東鎮,宜蘭縣羅東鎮中正南路160號,121.7707,24.67143,http://netreg.smh.org.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=FJ&Date=&Noon=,"預約系統,電話預約",https://netreg.smh.org.tw/OINetReg/OINetReg.Reg/Reg_NetReg.aspx,,03-9544106,,,,,,,2021年7月4日 10:50晚上,Dora lyn,衛福部系列,
+2334010018,宜蘭縣宜蘭市衛生所,宜蘭縣,宜蘭市,宜蘭縣宜蘭市健康路二段2－2號1樓,121.7523,24.74555,,電話預約,,,03-9322362,,,,,,,2021年7月4日 10:52晚上,Dora lyn,,
+2334020014,宜蘭縣羅東鎮衛生所,宜蘭縣,羅東鎮,宜蘭縣羅東鎮民生路79號,121.7670,24.67753,,電話預約,,,03-9542321,,,,,,,2021年7月4日 10:52晚上,Dora lyn,,
+0145010019,衛生福利部花蓮醫院,花蓮縣,花蓮市,花蓮縣花蓮市中正路600號,121.6112,23.97948,https://webreg.hwln.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=01CO&Date=&Noon ,,https://webreg.hwln.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=01CO&Date=&Noon ,,03-8358141,,,,,,,2021年7月4日 2:37下午,Dora lyn,衛福部系列,
+0145030020,衛生福利部玉里醫院,花蓮縣,玉里鎮,花蓮縣玉里鎮中華路448號,121.3208,23.34749,https://reg.ttyl.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=CD19&Date=&Noon=,,https://reg.ttyl.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=CD19&Date=&Noon=,,03-8886141,,,,,,,2021年7月4日 2:37下午,Dora lyn,衛福部系列,
+0145080011,衛生福利部花蓮醫院豐濱原住民分院,花蓮縣,豐濱鄉,花蓮縣豐濱鄉豐濱村光豐路41號,121.5213,23.60198,,不詳,,,03-8358141,,,,,,,2021年7月4日 3:50下午,Dora lyn,,
+0545040515,國軍花蓮總醫院附設民眾診療服務處,花蓮縣,新城鄉,花蓮縣新城鄉嘉里路163號,121.6074,24.02443,https://805.mnd.gov.tw/news01/%e5%9c%8b%e8%bb%8d%e8%8a%b1%e8%93%ae%e7%b8%bd%e9%86%ab%e9%99%a2%e9%99%a2%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e6%b3%a8%e5%b0%84%e5%b0%88%e8%b2%ac%e9%96%80%e8%a8%ba/,掛號系統,https://805.mnd.gov.tw/news01/%e5%9c%8b%e8%bb%8d%e8%8a%b1%e8%93%ae%e7%b8%bd%e9%86%ab%e9%99%a2%e9%99%a2%e6%96%b0%e5%86%a0%e7%96%ab%e8%8b%97%e6%b3%a8%e5%b0%84%e5%b0%88%e8%b2%ac%e9%96%80%e8%a8%ba/,,03-8263151,,,,,,,2021年7月4日 3:50下午,Dora lyn,國軍醫院系列,
+0645020015,臺北榮民總醫院鳳林分院,花蓮縣,鳳林鎮,花蓮縣鳳林鎮鳳信里中正路1段2號,121.4392,23.72743,https://docs.google.com/forms/d/e/1FAIpQLScLoaWRRw79SVt6X3Q5uBApirQ_E9-33fQfwLbgKLpnRY2u4Q/viewform,google表單,https://docs.google.com/forms/d/e/1FAIpQLScLoaWRRw79SVt6X3Q5uBApirQ_E9-33fQfwLbgKLpnRY2u4Q/viewform,,03-8764539,,,,,,,2021年7月4日 3:50下午,Dora lyn,google表單系列,
+0645030011,臺北榮民總醫院玉里分院,花蓮縣,玉里鎮,花蓮縣玉里鎮泰昌里新興街91號,121.3120,23.33921,https://docs.google.com/forms/d/e/1FAIpQLSfp64cRcT5jZfBp0-mIVloem_jOuOSFg41ZCvYlQVbiHlLhrA/viewform,google表單,https://docs.google.com/forms/d/e/1FAIpQLSfp64cRcT5jZfBp0-mIVloem_jOuOSFg41ZCvYlQVbiHlLhrA/viewform,,03-8883141,,,,,,,2021年7月4日 3:50下午,Dora lyn,google表單系列,
+1145010010,佛教慈濟醫療財團法人花蓮慈濟醫院,花蓮縣,花蓮市,花蓮縣花蓮市中央路3段707號,121.5923,23.99573,https://hlm.tzuchi.com.tw/index.php/guide/covid19,掛號系統,https://app.tzuchi.com.tw/tchw/opdreg/OpdTimeShow.aspx?Depart=%E5%85%AC%E8%B2%BBCOVID19%E7%96%AB%E8%8B%97%E9%A0%90%E7%B4%84&HospLoc=3,,03-8561825,,,,,,,2021年7月4日 3:50下午,Dora lyn,慈濟系列,
+1145010038,臺灣基督教門諾會醫療財團法人門諾醫院,花蓮縣,花蓮市,花蓮縣花蓮市民權路44號,121.6266,23.98826,https://reg.mch.org.tw/Register/ShowPhySchedule?Area=M&SubjectClassId=&SubjectId=9007&phyId=,掛號系統,https://reg.mch.org.tw/Register/ShowPhySchedule?Area=M&SubjectClassId=&SubjectId=9007&phyId=,,03-8241234,,,,,,,2021年7月4日 3:50下午,Dora lyn,醫院各自系統,
+1145030012,佛教慈濟醫療財團法人玉里慈濟醫院,花蓮縣,玉里鎮,花蓮縣玉里鎮民權街1－1號,121.3185,23.33466,https://app.tzuchi.com.tw/tchw/opdreg/OpdTimeShow.aspx?depart=COVID19%e7%96%ab%e8%8b%97%e9%a0%90%e7%b4%84&HospLoc=5,掛號系統,https://app.tzuchi.com.tw/tchw/opdreg/OpdTimeShow.aspx?depart=COVID19%e7%96%ab%e8%8b%97%e9%a0%90%e7%b4%84&HospLoc=5,,03-8882718,,,,,,,2021年7月4日 3:50下午,Dora lyn,慈濟系列,
+1145060029,臺灣基督教門諾會醫療財團法人門諾醫院壽豐分院,花蓮縣,壽豐鄉,花蓮縣壽豐鄉共和村魚池52號,121.5249,23.87000,https://reg.mch.org.tw/Register/ShowPhySchedule?Area=S&SubjectClassId=&SubjectId=9007&phyId=,不詳,,,03-8664600,,,,,,,2021年7月4日 3:50下午,Dora lyn,,沒有看到預約的地方 by SL
+2345010015,花蓮縣花蓮市衛生所,花蓮縣,花蓮市,花蓮縣花蓮市新興路200號,121.6172,23.99143,,不詳,,,03-8230232,,,,,,,2021年7月4日 3:50下午,Dora lyn,,
+2345020011,花蓮縣鳳林鎮衛生所,花蓮縣,鳳林鎮,花蓮縣鳳林鎮公正街8之1號,121.4514,23.74537,,不詳,,,03-8761116,,,,,,,2021年7月4日 3:50下午,Dora lyn,,看來花蓮有可能會用這個系統？？http://covid-19.hlc.edu.tw/。  by SL
+2345030017,花蓮縣玉里鎮衛生所,花蓮縣,玉里鎮,花蓮縣玉里鎮泰昌里中正路152號,121.3149,23.33641,,不詳,,,03-8882046,,,,,,,2021年7月4日 3:50下午,Dora lyn,,
+2345040013,花蓮縣新城鄉衛生所,花蓮縣,新城鄉,花蓮縣新城鄉北埔村北埔路160號,121.6053,24.03087,,不詳,,,03-8266781,,,,,,,2021年7月4日 3:50下午,Dora lyn,,
+2345050019,花蓮縣吉安鄉衛生所,花蓮縣,吉安鄉,花蓮縣吉安鄉吉安村吉安路2段132號,121.5638,23.97381,,不詳,,,03-8521113,,,,,,,2021年7月4日 3:50下午,Dora lyn,,
+2345060015,花蓮縣壽豐鄉衛生所,花蓮縣,壽豐鄉,花蓮縣壽豐鄉壽豐村公園路28巷10號,121.5072,23.86870,,不詳,,,03-8652101,,,,,,,2021年7月4日 3:50下午,Dora lyn,,
+2345070011,花蓮縣光復鄉衛生所,花蓮縣,光復鄉,花蓮縣光復鄉大馬村中學街158號,121.4259,23.67190,,不詳,,,03-8701114,,,,,,,2021年7月4日 3:50下午,Dora lyn,,
+2345090013,花蓮縣瑞穗鄉衛生所,花蓮縣,瑞穗鄉,花蓮縣瑞穗鄉瑞穗村民生街75號,121.3790,23.49979,,不詳,,,03-8872045,,,,,,,2021年7月4日 3:50下午,Dora lyn,,
+2345100014,花蓮縣富里鄉衛生所,花蓮縣,富里鄉,花蓮縣富里鄉富里村中山路203號,121.2491,23.17847,,不詳,,,03-8831029,,,,,,,2021年7月4日 3:50下午,Dora lyn,,
+2345110010,花蓮縣秀林鄉衛生所,花蓮縣,秀林鄉,花蓮縣秀林鄉秀林村12鄰秀林路88號,121.6334,24.12690,,不詳,,,03-8612122,,,,,,,2021年7月4日 3:50下午,Dora lyn,,
+2345120016,花蓮縣萬榮鄉衛生所,花蓮縣,萬榮鄉,花蓮縣萬榮鄉萬榮村1鄰16號,121.4092,23.71558,,不詳,,,03-8751651,,,,,,,2021年7月4日 3:50下午,Dora lyn,,
+2345130012,花蓮縣卓溪鄉衛生所,花蓮縣,卓溪鄉,花蓮縣卓溪鄉卓溪村中正路65號,121.3031,23.34780,,不詳,,,03-8882592,,,,,,,2021年7月4日 3:50下午,Dora lyn,,
+0146020537,衛生福利部臺東醫院成功分院,臺東縣,成功鎮,臺東縣成功鎮中山東路32號,121.3778,23.09930,,不詳,,,089-324112,,,,,,,2021年7月5日 11:24上午,Dora lyn,,網站整個當了！？ by SL
+1146030516,佛教慈濟醫療財團法人關山慈濟醫院,臺東縣,關山鎮,臺東縣關山鎮和平路125－5號,121.1667,23.05722,https://app.tzuchi.com.tw/tchw/OpdReg/OpdTimeShow.aspx?depart=%e5%85%a7%e7%a7%91&HospLoc=6,掛號系統,https://app.tzuchi.com.tw/tchw/OpdReg/OpdTimeShow.aspx?depart=COVID19%e7%96%ab%e8%8b%97%e9%a0%90%e7%b4%84&HospLoc=6,,089-814880,,,,,,,2021年7月5日 11:32中午,Dora lyn,慈濟系列,需要驗證身份 by SL
+2346020015,臺東縣成功鎮衛生所,臺東縣,成功鎮,臺東縣成功鎮忠仁里中山東路64號,121.3795,23.09993,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-851419,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346030011,臺東縣關山鎮衛生所,臺東縣,關山鎮,臺東縣關山鎮中福里中華路78號,121.1639,23.04957,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-811042,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346080011,臺東縣長濱鄉衛生所,臺東縣,長濱鄉,臺東縣長濱鄉長濱村中興路46號,121.4539,23.31879,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-831022,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346100018,臺東縣池上鄉衛生所,臺東縣,池上鄉,臺東縣池上鄉中山路104號,121.2148,23.12169,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-862609,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346130016,臺東縣海端鄉衛生所,臺東縣,海端鄉,臺東縣海端鄉海端村3鄰29號,121.1767,23.10094,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-931391,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346060019,臺東縣太麻里鄉衛生所,臺東縣,太麻里鄉,臺東縣太麻里鄉泰和村2鄰民權路66號,121.0074,22.61538,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-781220,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346070015,臺東縣東河鄉衛生所,臺東縣,東河鄉,臺東縣東河鄉東河村南東河路10鄰300號,121.3031,22.96846,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-896289,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346090017,臺東縣鹿野鄉衛生所,臺東縣,鹿野鄉,臺東縣鹿野鄉鹿野村中華路1段418號,121.1364,22.91028,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-551074,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346110014,臺東縣綠島鄉衛生所,臺東縣,綠島鄉,臺東縣綠島鄉中寮村1－1號,121.4696,22.67319,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-672511,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346120010,臺東縣延平鄉衛生所,臺東縣,延平鄉,臺東縣延平鄉桃源村昇平路11號,121.0857,22.90211,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-561040,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346140012,臺東縣達仁鄉衛生所,臺東縣,達仁鄉,臺東縣達仁鄉安朔村復興路122號,120.8849,22.29335,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-702209,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346150018,臺東縣金峰鄉衛生所,臺東縣,金峰鄉,臺東縣金峰鄉賓茂村1鄰14號,120.9606,22.53248,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-772201,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346160014,臺東縣蘭嶼鄉衛生所,臺東縣,蘭嶼鄉,臺東縣蘭嶼鄉紅頭村36號,121.5546,22.02493,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-732575,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346090017,臺東縣台東市衛生所,臺東縣,台東市,台東縣台東市大同路51號,121.1519,22.75045,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-350757,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+0146010013,衛生福利部臺東醫院,臺東縣,台東市,臺東縣臺東市五權街1號,121.1506,22.75703,https://netreg01.tait.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0519&Date=&Noon=,掛號系統,https://netreg01.tait.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0519&Date=&Noon=,,089-324112,,,,,,,2021年7月5日 11:33中午,Dora lyn,衛福部系列,
+0646010013,臺北榮民總醫院臺東分院,臺東縣,台東市,臺東縣臺東市南榮里更生路1000號,121.1324,22.77235,https://reurl.cc/DvR156,,,,089-222995,,,,,,,2021年7月5日 11:39中午,Dora lyn,,進不了他們的網站 by SL
+1146010014,台灣基督長老教會馬偕醫療財團法人台東馬偕紀念醫院,臺東縣,台東市,臺東縣臺東市長沙街303巷1號,121.1410,22.75027,https://ttreg.mmh.org.tw/DrSch.aspx?dept=O26A&dr=O26A&drname=&Lang=C,掛號系統,https://ttreg.mmh.org.tw/DrSch.aspx?dept=O26A&dr=O26A&drname=&Lang=C,,089-310150,,,,,,,2021年7月5日 11:37中午,Dora lyn,醫院各自系統,
+1146010032,東基醫療財團法人台東基督教醫院,臺東縣,台東市,臺東縣臺東市開封街350號,121.1460,22.76382,https://www.tch.org.tw/TCRG2/opd/service-e.aspx?id=1901&Page=11&#p,掛號系統,https://www.tch.org.tw/TCRG2/opd/service-e.aspx?id=1901&Page=11&#p,,089-960888,,,,,,,2021年7月5日 11:38中午,Dora lyn,醫院各自系統,
+2346040017,臺東縣卑南鄉衛生所,臺東縣,卑南鄉,臺東縣卑南鄉太平村和平路132號,121.0881,22.78207,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-382042,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+2346050013,臺東縣大武鄉衛生所,臺東縣,大武鄉,臺東縣大武鄉大武村復興路2－2號,120.9078,22.36414,,預約系統,https://wecanhelp.ttpush.app/reservation?fbclid=IwAR3c5wtfEVVUpbEv2MN7JRTaS-3r_BGOqDsR67Qk_Kn0Uw8bA4V02JjgdcQ,,089-791143,,,,,,,2021年7月5日 11:32中午,Dora lyn,台東縣預約系統系列,需要驗證身份 by SL
+0544010031,三軍總醫院澎湖分院附設民眾診療服務處,澎湖縣,馬公市,澎湖縣馬公市前寮里90號,119.5837,23.55462,http://netreg.afph.tsgh.ndmctsgh.edu.tw/webreg/calendar_type/5xn1z9fPG5H4JDJEV98dHQ%3D%3D,,,,06-9211116,,,,,,,2021年7月5日 11:14上午,Dora lyn,,預約系統看起來壞掉了？by SL
+2344010011,澎湖縣馬公市第一衛生所,澎湖縣,馬公市,澎湖縣馬公市樹德路36號,119.5671,23.56902,,google表單,https://docs.google.com/forms/d/e/1FAIpQLScydIipaylukL2l-FUoC5ls7zjXSi6f_fO_rUvvt6tjHBc4pQ/viewform,,06-9273958,,,,,,,2021年7月5日 11:15上午,Dora lyn,google表單系列,
+2344011027,澎湖縣馬公市第二衛生所,澎湖縣,馬公市,澎湖縣馬公市鎖港里240號,119.6009,23.52936,,google表單,https://docs.google.com/forms/d/e/1FAIpQLScydIipaylukL2l-FUoC5ls7zjXSi6f_fO_rUvvt6tjHBc4pQ/viewform,,06-9951354,,,,,,,2021年7月5日 11:15上午,Dora lyn,google表單系列,
+2344011036,澎湖縣馬公市第三衛生所,澎湖縣,馬公市,澎湖縣馬公市西文里118之2號,119.5836,23.56813,,google表單,https://docs.google.com/forms/d/e/1FAIpQLScydIipaylukL2l-FUoC5ls7zjXSi6f_fO_rUvvt6tjHBc4pQ/viewform,,06-9211723,,,,,,,2021年7月5日 11:15上午,Dora lyn,google表單系列,
+2344020017,澎湖縣湖西鄉衛生所,澎湖縣,湖西鄉,澎湖縣湖西鄉湖西村151－1號,119.6614,23.58393,,google表單,https://docs.google.com/forms/d/e/1FAIpQLScydIipaylukL2l-FUoC5ls7zjXSi6f_fO_rUvvt6tjHBc4pQ/viewform,,06-9921271,,,,,,,2021年7月5日 11:15上午,Dora lyn,google表單系列,
+2344030013,澎湖縣白沙鄉衛生所,澎湖縣,白沙鄉,澎湖縣白沙鄉赤崁村359號,119.5982,23.66669,,google表單,https://docs.google.com/forms/d/e/1FAIpQLScydIipaylukL2l-FUoC5ls7zjXSi6f_fO_rUvvt6tjHBc4pQ/viewform,,06-9931044,,,,,,,2021年7月5日 11:15上午,Dora lyn,google表單系列,
+2344030022,澎湖縣白沙鄉鳥嶼衛生所,澎湖縣,白沙鄉,澎湖縣白沙鄉鳥嶼村漁港新村3號,119.6599,23.66008,,google表單,https://docs.google.com/forms/d/e/1FAIpQLScydIipaylukL2l-FUoC5ls7zjXSi6f_fO_rUvvt6tjHBc4pQ/viewform,,06-9916092,,,,,,,2021年7月5日 11:15上午,Dora lyn,google表單系列,
+2344030031,澎湖縣白沙鄉吉貝衛生所,澎湖縣,白沙鄉,澎湖縣白沙鄉吉貝村8－13號,119.6138,23.74057,,google表單,https://docs.google.com/forms/d/e/1FAIpQLScydIipaylukL2l-FUoC5ls7zjXSi6f_fO_rUvvt6tjHBc4pQ/viewform,,06-9911430,,,,,,,2021年7月5日 11:15上午,Dora lyn,google表單系列,
+2344040019,澎湖縣西嶼鄉衛生所,澎湖縣,西嶼鄉,澎湖縣西嶼鄉池東村222號,119.5102,23.59925,,google表單,https://docs.google.com/forms/d/e/1FAIpQLScydIipaylukL2l-FUoC5ls7zjXSi6f_fO_rUvvt6tjHBc4pQ/viewform,,06-9981115,,,,,,,2021年7月5日 11:15上午,Dora lyn,google表單系列,
+2344050015,澎湖縣望安鄉衛生所,澎湖縣,望安鄉,澎湖縣望安鄉西安村36－7號,119.4972,23.36161,,google表單,https://docs.google.com/forms/d/e/1FAIpQLScydIipaylukL2l-FUoC5ls7zjXSi6f_fO_rUvvt6tjHBc4pQ/viewform,,06-9991036,,,,,,,2021年7月5日 11:15上午,Dora lyn,google表單系列,
+2344050024,澎湖縣望安鄉將軍衛生所,澎湖縣,望安鄉,澎湖縣望安鄉將軍村12鄰將軍澳1之3號,119.5216,23.36150,,google表單,https://docs.google.com/forms/d/e/1FAIpQLScydIipaylukL2l-FUoC5ls7zjXSi6f_fO_rUvvt6tjHBc4pQ/viewform,,06-9902066,,,,,,,2021年7月5日 11:15上午,Dora lyn,google表單系列,
+2344060011,澎湖縣七美鄉衛生所,澎湖縣,七美鄉,澎湖縣七美鄉中和村埔內54號,119.4310,23.20410,,google表單,https://docs.google.com/forms/d/e/1FAIpQLScydIipaylukL2l-FUoC5ls7zjXSi6f_fO_rUvvt6tjHBc4pQ/viewform,,06-9971005,,,,,,,2021年7月5日 11:15上午,Dora lyn,google表單系列,
+0190030516,衛生福利部金門醫院,金門縣,金湖鎮,金門縣金湖鎮復興路2號、烈嶼鄉上林村后井37號（烈嶼院區）,118.4180,24.44059,https://www.kmhp.mohw.gov.tw/,掛號系統,https://netreg.kmhp.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NetReg.aspx,,082-332546,,,,,,,2021年7月4日 11:11晚上,Dora lyn,衛福部系列,
+0291010010,連江縣立醫院,連江縣,南竿鄉,連江縣南竿鄉復興村217號,119.9492,26.16084,,不詳,,,083-623995,,,,,,,2021年7月4日 11:12晚上,Dora lyn,,
+1102110011,高雄市立小港醫院(委託財團法人私立高雄醫學大學經營),高雄市,小港區,高雄市小港區山明里山明路482號Ｂ1－10樓,120.3634,22.56747,https://www.kmsh.org.tw/web/BookVaccineSysInter,,https://www.kmsh.org.tw/web/BookVaccineSysInter,,07-8036783,,,,,,,2021年7月4日 11:19上午,Dora lyn,高醫大系列,
+1107320017,義大醫療財團法人義大大昌醫院,高雄市,三民區,高雄市三民區大昌一路305號地下3樓至7樓,120.3199,22.65758,https://reurl.cc/Xebmxg,,https://www.edah.org.tw/covid/CovidArea.html,,07-5599123,,,,,,,2021年7月4日 11:47中午,Dora lyn,義大系列,
+1107350015,天主教聖功醫療財團法人聖功醫院,高雄市,苓雅區,高雄市苓雅區建國一路352號,120.3239,22.63312,http://newweb.joseph.org.tw/,,http://newweb.joseph.org.tw/c19reg/c19reg.php,,07-2238153,,,,,,,2021年7月4日 11:18上午,Dora lyn,醫院各自系統,
+1142010518,高雄市立鳳山醫院（委託長庚醫療財團法人經營）,高雄市,鳳山區,高雄市鳳山區經武路42號,120.3631,22.62856,https://register.cgmh.org.tw/Department/T/T0990C,,https://register.cgmh.org.tw/Register/T,,07-7418151,,,,,,,2021年7月4日 11:22上午,Dora lyn,長庚醫院系列,
+1142100017,長庚醫療財團法人高雄長庚紀念醫院,高雄市,鳥松區,高雄市鳥松區大埤路123號,120.3560,22.64985,https://register.cgmh.org.tw/Department/8/80990D,,https://register.cgmh.org.tw/Register/8,,07-7317123,,,,,,,2021年7月4日 11:23上午,Dora lyn,長庚醫院系列,
+0102020011,高雄市立聯合醫院,高雄市,鼓山區,高雄市鼓山區中華一路976號,120.2917,22.65492,https://reg.kmuh.gov.tw/netReg/DeptUI.aspx,,https://reg.kmuh.gov.tw/netReg/DeptUI.aspx,,07-5552565,,,,,,,2021年7月4日 11:25上午,Dora lyn,醫院各自系統,
+0102070020,高雄市立大同醫院(委託財團法人私立高雄醫學大學附設中和紀念醫院經營) ,高雄市,前金區,高雄市前金區中華三路68號,120.2972,22.62699,https://www.kmtth.org.tw/web/BookVaccineSysInter,,https://www.kmtth.org.tw/web/BookVaccineSysInter,,07-2911101,,,,,,,2021年7月4日 11:19上午,Dora lyn,高醫大系列,
+0102080017,高雄市立民生醫院,高雄市,苓雅區,高雄市苓雅區凱旋二路134號,120.3207,22.62835,https://www.kmsh.gov.tw/vaccine_reg/,,https://www.kmsh.gov.tw/trenew/Login.aspx?Dir2=1,,07-7511131,,,,,,,2021年7月4日 11:25上午,Dora lyn,醫院各自系統,要查核身分 by SL
+0142030019,衛生福利部旗山醫院,高雄市,旗山區,高雄市旗山區大德里中學路60號,120.4833,22.88069,https://reurl.cc/kV2WAG,,https://newnetreg.chis.mohw.gov.tw/OiNetReg/OINetReg.Reg/Reg_RegTable.aspx?Date=&DivDr=0102&HID=F&Noon=&Way=Dept,,07-6613811,,,,,,,2021年7月4日 11:26上午,Dora lyn,衛福部系列,
+0502030015,國軍高雄總醫院左營分院附設民眾診療服務處,高雄市,左營區,高雄市左營區合群里軍校路553號,120.2922,22.70035,https://reg.ngh.com.tw/,,https://reg.ngh.com.tw/,,07-5817121,,,,,,,2021年7月4日 11:35中午,Dora lyn,國軍醫院系列,
+0502080015,國軍高雄總醫院附設民眾診療服務處,高雄市,苓雅區,高雄市苓雅區建軍路5號,120.3420,22.62705,http://webreg.802.org.tw/tre/start.asp,,https://reg.802.mnd.gov.tw/,,07-7496751,,,,,,,2021年7月4日 11:34中午,Dora lyn,國軍醫院系列,
+0542020011,國軍高雄總醫院岡山分院,高雄市,岡山區,高雄市岡山區大義二路1號,120.2859,22.78946,https://reg.814.mnd.gov.tw/,,https://reg.814.mnd.gov.tw/,,07-6250919,,,,,,,2021年7月4日 11:35中午,Dora lyn,國軍醫院系列,目前不開放預約 by SL
+0602030026,高雄榮民總醫院,高雄市,左營區,高雄市左營區大中一路386號,120.3223,22.67770,https://reurl.cc/nnAk4e,,https://reurl.cc/nnAk4e,,07-3422121,,,,,,,2021年7月4日 11:37中午,Dora lyn,醫院各自系統,
+0902080013,阮綜合醫療社團法人阮綜合醫院,高雄市,苓雅區,高雄市苓雅區成功一路162號.四維四路136號.166號.永昌街49號,120.2974,22.61558,http://teaching.yuanhosp.com.tw/Covid19Vacc/view/vmainHome.aspx,,http://teaching.yuanhosp.com.tw/Covid19Vacc/view/vmainHome.aspx,,07-3351121,,,,,,,2021年7月4日 11:37中午,Dora lyn,醫院各自系統,需要驗證身份. by SL
+0942020019,高雄市立岡山醫院（委託秀傳醫療社團法人經營）,高雄市,岡山區,高雄市岡山區壽天路12號,120.2944,22.79661,https://reurl.cc/e9goZW,,https://www.ks.org.tw/KS2017/RegCal.aspx?Dept=ME&Kind=2,,07-6222131,,,,,,,2021年7月4日 11:39中午,Dora lyn,秀傳系列,
+1542011282,杏和醫院,高雄市,鳳山區,高雄市鳳山區五甲二路385號、387號、389號、391號,120.3357,22.59768,http://shinghou.com.tw/news_detail.php?id=34,電話預約,,,07-7613111,,,,,,,2021年7月4日 11:13晚上,Dora lyn,,電話預約 by SL
+1542050056,建佑醫院,高雄市,林園區,高雄市林園區東林西路360，362號，399號，407巷7號,120.3921,22.50385,http://www.chien-yu.com.tw/news_detail.php?id=3675,,http://60.249.190.171:82/opdregweb/Menu.aspx,,07-6437901,,,,,,,2021年7月4日 11:43中午,Dora lyn,醫院各自系統,要按一個紅色的「covid19預防接種門診」！（不好找哈哈哈）by SL
+1142120001,義大醫療財團法人義大醫院,高雄市,燕巢區,高雄市燕巢區角宿里義大路1號,120.3645,22.76552,https://reurl.cc/V3goeY,,https://www.edah.org.tw/covid/CovidArea.html,,07-6150011,,,,,,,2021年7月4日 11:47中午,Dora lyn,義大系列,
+1302050014,財團法人私立高雄醫學大學附設中和紀念醫院,高雄市,三民區,高雄市三民區十全一路100號,120.3100,22.64518,https://www.kmuh.org.tw/web/BookVaccineSysInter,,https://www.kmuh.org.tw/web/BookVaccineSysInter,,07-3121101,,,,,,,2021年7月4日 11:19上午,Dora lyn,高醫大系列,
+1307370011,高雄市立旗津醫院(委託財團法人私立高雄醫學大學經營),高雄市,旗津區,高雄市旗津區旗港路33號,120.2851,22.59021,https://www.kmch.org.tw/web/BookVaccineSysInter,,https://www.kmch.org.tw/web/BookVaccineSysInter,,07-5711188,,,,,,,2021年7月4日 11:19上午,Dora lyn,高醫大系列,
+1502040021,健仁醫院,高雄市,楠梓區,高雄市楠梓區中陽里楠陽路136號,120.3290,22.72362,http://reg.jiannren.org.tw/JRNetReg/KReg/ScheduleListCovid19.aspx,,http://reg.jiannren.org.tw/JRNetReg/KReg/ScheduleListCovid19.aspx,,07-3517166,,,,,,,2021年7月4日 11:48中午,Dora lyn,醫院各自系統,
+1542010052,大東醫院,高雄市,鳳山區,高雄市鳳山區三民里光遠路171－2號,120.3620,22.62536,http://www.da-dong.com.tw/content-62.html,,,,07-7463762,,,,,,,2021年7月4日 11:51中午,Dora lyn,,看來目前沒有再打疫苗了
+0943030019,安泰醫療社團法人安泰醫院,屏東縣,東港鎮,屏東縣東港鎮興東里中正路一段210號,120.4591,22.47433,https://reurl.cc/3N9gnX,預約系統,https://www.tsmh.org.tw/apps/opdstatus/users/medbook?mobile,,08-8329966,,,,,,,2021年7月4日 4:18下午,Dora lyn,醫院各自系統,
+0943040015,南門醫療社團法人南門醫院,屏東縣,恆春鎮,屏東縣恆春鎮南門路10號,120.7454,22.00086,https://thcloudsrv.these.com.tw:2096/Opdregweb/Menu.aspx,預約系統,http://reg.nanmen.com.tw:8080/NanWeb/index.html,,08-8894568,,,,,,,2021年7月4日 4:18下午,Dora lyn,醫院各自系統,
+0943160012,枋寮醫療社團法人枋寮醫院,屏東縣,枋寮鄉,屏東縣枋寮鄉安樂村中山路139號,120.5968,22.36414,https://mobile.flgh.org.tw/Covid19Reg/Covid19Reg.aspx,預約系統,https://mobile.flgh.org.tw/Covid19Reg/Covid19Reg.aspx,,08-8789991,,,,,,,2021年7月4日 4:18下午,Dora lyn,醫院各自系統,
+2343060017,屏東縣長治鄉衛生所,屏東縣,長治鄉,屏東縣長治鄉進興村潭頭路3號,120.5268,22.67660,,造冊通知,,,08-7368734,,,,,,,2021年7月4日 4:58下午,Dora lyn,,無線上預約，看來是透過臉書佈達資訊 by SL
+2343070013,屏東縣麟洛鄉衛生所,屏東縣,麟洛鄉,屏東縣麟洛鄉麟蹄村中山路156－1號,120.5275,22.65106,,,https://www.ptshb.gov.tw/lil/Default.aspx,,08-7221152,,,,,,,2021年7月3日 10:04晚上,Dora lyn,,無線上預約 by SL
+2343080019,屏東縣九如鄉衛生所,屏東縣,九如鄉,屏東縣九如鄉九如路二段247號,120.4892,22.73614,,,,,08-7392006,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343090015,屏東縣里港鄉衛生所,屏東縣,里港鄉,屏東縣里港鄉大平村中山路103–1號,120.4937,22.77360,,,,,08-7751711,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343100016,屏東縣鹽埔鄉衛生所,屏東縣,鹽埔鄉,屏東縣鹽埔鄉鹽北村勝利路187號,120.5786,22.76031,,,,,08-7932474,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343110012,屏東縣高樹鄉衛生所,屏東縣,高樹鄉,屏東縣高樹鄉長榮村南昌路12–2號,120.5963,22.81943,,,,,08-7962026,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343120018,屏東縣萬巒鄉衛生所,屏東縣,萬巒鄉,屏東縣萬巒鄉萬全村褒忠路16號,120.5745,22.57175,,,,,08-7811794,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343130014,屏東縣內埔鄉衛生所,屏東縣,內埔鄉,屏東縣內埔鄉內埔村中興路191號,120.5690,22.61240,,,,,08-7792414,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343140010,屏東縣竹田鄉衛生所,屏東縣,竹田鄉,屏東縣竹田鄉竹田村中山路25號,120.5431,22.58637,,,,,08-7710445,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343150016,屏東縣新埤鄉衛生所,屏東縣,新埤鄉,屏東縣新埤鄉新埤村中正路38號,120.5501,22.47045,,,,,08-7971090,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+0143010011,衛生福利部屏東醫院,屏東縣,屏東市,屏東縣屏東市自由路270號,120.4955,22.67326,http://netreg.pntn.mohw.gov.tw/OInetreg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0219&Date=&Noon=,,http://netreg.pntn.mohw.gov.tw/OInetreg/OINetReg.Reg/Reg_RegTable.aspx?HID=F&Way=Dept&DivDr=0219&Date=&Noon=,,08-7363011,,,,,,,2021年7月3日 10:06晚上,Dora lyn,衛福部系列,
+0543010019,國軍高雄總醫院附設屏東民眾診療服務處,屏東縣,屏東市,屏東縣屏東市大湖路58巷22號,120.4876,22.63350,https://802.mnd.gov.tw/,,,,08-7560756,,,,,,,2021年7月3日 10:29晚上,Dora lyn,,找不到可以預約相關資訊 by SL
+0643130018,高雄榮民總醫院屏東分院,屏東縣,內埔鄉,屏東縣內埔鄉龍潭村昭勝路安平一巷1號,120.5990,22.67442,https://www.vhlc.gov.tw/Default.aspx,,,,08-7704115,,,,,,,2021年7月3日 10:30晚上,Dora lyn,,未接獲新冠疫苗撥補，故暫停開放預約
+0943010017,寶建醫療社團法人寶建醫院,屏東縣,屏東市,屏東市中山路119.123號.屏東市自由路650－1號Ｂ1,120.4844,22.68266,http://www.paochien.com.tw/twuse/covidNet,,http://www.paochien.com.tw/twuse/covidNet,,08-7665995,,,,,,,2021年7月3日 10:30晚上,Dora lyn,,未接獲衛生局通知新冠疫苗撥補，故暫停開放預約
+0943020013,安泰醫療社團法人潮州安泰醫院,屏東縣,潮州鎮,屏東縣潮州鎮三星里四維路162及193號,120.5470,22.55403,http://ppt.cc/fQrwMx,,,,08-7800888,,,,,,,2021年7月3日 10:31晚上,Dora lyn,,"目前沒在幫忙打疫苗
+by SL"
+2343160012,屏東縣枋寮鄉衛生所,屏東縣,枋寮鄉,屏東縣枋寮鄉枋寮村德興路77號,120.5930,22.36564,,,,,08-8782940,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343170018,屏東縣新園鄉衛生所,屏東縣,新園鄉,屏東縣新園鄉仙吉村仙吉路89－2號,120.4609,22.54360,,,,,08-8681293,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343180014,屏東縣崁頂鄉衛生所,屏東縣,崁頂鄉,屏東縣崁頂鄉崁頂村興農路29–9號,120.5065,22.51190,,,,,08-8631454,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343190010,屏東縣林邊鄉衛生所,屏東縣,林邊鄉,屏東縣林邊鄉光林村和平路45號,120.5097,22.43109,,,,,08-8752076,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343200011,屏東縣南州鄉衛生所,屏東縣,南州鄉,屏東縣南州鄉溪南村人和路239號,120.5030,22.48607,,,,,08-8642224,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343210017,屏東縣佳冬鄉衛生所,屏東縣,佳冬鄉,屏東縣佳冬鄉六根村佳和路87－1號,120.5496,22.41426,,,,,08-8662018,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343220013,屏東縣琉球鄉衛生所,屏東縣,琉球鄉,屏東縣琉球鄉本福村中山路51號,120.3785,22.34853,,,,,08-8612513,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343230019,屏東縣車城鄉衛生所,屏東縣,車城鄉,屏東縣車城鄉福安村福安路2之30號,120.7125,22.06987,,,,,08-8821300,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343240015,屏東縣滿州鄉衛生所,屏東縣,滿州鄉,屏東縣滿州鄉滿州村中山路31號,120.8381,22.01898,,,,,08-8801279,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343250011,屏東縣枋山鄉衛生所,屏東縣,枋山鄉,屏東縣枋山鄉枋山村枋山路98號,120.6527,22.26464,,,,,08-8761150,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+1543010109,國仁醫院,屏東縣,屏東市,屏東縣屏東市民生東路12－2號,120.5146,22.65830,https://forms.gle/S2d5y7J3N1t9zTT97,google表單,https://forms.gle/S2d5y7J3N1t9zTT97,,08-7223000,,,,,,,2021年7月4日 11:13晚上,Dora lyn,google表單系列,暫時不接受預約by SL
+1543110033,大新醫院,屏東縣,高樹鄉,屏東縣高樹鄉長榮村興中路208號,120.5996,22.82379,http://www.mashup.com.tw/dasin/?page=about,電話預約,http://www.mashup.com.tw/dasin/?page=news_content&n_id=30264,,08-7962033,,,,,,,2021年7月4日 11:15晚上,Dora lyn,,看來是還沒有用線上的方式接受預約喔 by SL
+2343010017,屏東縣屏東市衛生所,屏東縣,屏東市,屏東縣屏東市北興里中正路419號,120.4824,22.66506,,,,,08-7538701,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343020013,屏東縣潮州鎮衛生所,屏東縣,潮州鎮,屏東縣潮州鎮三共里永坤路107號,120.5422,22.55302,,,,,08-7882131,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343030019,屏東縣東港鎮衛生所,屏東縣,東港鎮,屏東縣東港鎮朝安里新生三路23號,120.4459,22.46731,,,,,08-8325310,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343040015,屏東縣恆春鎮衛生所,屏東縣,恆春鎮,屏東縣恆春鎮城南里文化路78號,120.7469,22.00323,,,,,08-8892140,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343050011,屏東縣萬丹鄉衛生所,屏東縣,萬丹鄉,屏東縣萬丹鄉四維村萬丹路一段501號,120.4886,22.59495,,,,,08-7772049,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+1143010012,屏基醫療財團法人屏東基督教醫院,屏東縣,屏東市,屏東縣屏東市華山里大連路60號,120.5026,22.68204,https://docs.google.com/forms/d/e/1FAIpQLSd2bJ3agzjU-NTDCJz1uU94VYBdRhMsAKa7tXlj9L7FLutIIA/viewform,,https://docs.google.com/forms/d/e/1FAIpQLSd2bJ3agzjU-NTDCJz1uU94VYBdRhMsAKa7tXlj9L7FLutIIA/viewform,,08-7368686,,,,,,,2021年7月3日 10:22晚上,Dora lyn,google表單系列,
+1343030018,輔英科技大學附設醫院,屏東縣,東港鎮,屏東縣東港鎮興台里中山路5號,120.4527,22.46520,https://reg.fy.org.tw/fyrg/opd/service-e.aspx?id=1900&Page=11&#p,,,,08-8323146,,,,,,,2021年7月3日 10:26晚上,Dora lyn,,看不出來有沒有在幫忙打疫苗？ by SL
+2343260017,屏東縣三地門鄉務生所,屏東縣,三地門鄉,屏東縣三地門鄉三地村行政街4號,120.6535,22.71438,,,,,08-7991284,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343270013,屏東縣霧臺鄉衛生所,屏東縣,霧臺鄉,屏東縣霧台鄉霧台村神山巷68號,120.7261,22.74989,,,,,08-7902232,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343280019,屏東縣瑪家鄉衛生所,屏東縣,瑪家鄉,屏東縣瑪家鄉北葉村風景巷86號,120.6498,22.70880,,,,,08-7991164,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343290015,屏東縣泰武鄉衛生所,屏東縣,泰武鄉,屏東縣泰武鄉佳平村179號,120.6327,22.59212,,,,,08-7832059,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343300016,屏東縣來義鄉衛生所,屏東縣,來義鄉,屏東縣來義鄉古樓村中正路90號,120.6320,22.52584,,,,,08-7850103,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343310012,屏東縣春日鄉衛生所,屏東縣,春日鄉,屏東縣春日鄉春日村春日路176號,120.6255,22.37029,,,,,08-8780358,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343320018,屏東縣獅子鄉衛生所,屏東縣,獅子鄉,屏東縣獅子鄉楓林村楓林二巷31號,120.7048,22.20204,,,,,08-8771324,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
+2343330014,屏東縣牡丹鄉衛生所,屏東縣,牡丹鄉,屏東縣牡丹鄉石門村19號,120.7469,22.10105,,,,,08-8831013,,,,,,,2021年7月3日 9:57晚上,Dora lyn,,無線上預約 by SL
